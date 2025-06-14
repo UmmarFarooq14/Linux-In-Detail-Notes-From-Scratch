@@ -23,7 +23,7 @@ Comprehensive Linux notes covering basic to advanced commands, user/group manage
 ##  How to Use
 
 - Clone the repository using:
-- git clone https://github.com/your-username/linux-notes-from-scratch.git
+- git clone https://github.com/UmmarFarooq14/Linux-In-Detail-Notes-From-Scratch
 
 - Open the folders to explore topic-wise notes.
 - Use them for practice, revision, or interview preparation.
