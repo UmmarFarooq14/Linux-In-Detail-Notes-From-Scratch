@@ -12,30 +12,28 @@ Create files quickly without opening an editor.
 
 **Syntax:**
 
-touch filename              # Create a single file
-touch filename1 filename2   # Create multiple files
-touch filename{1..5}        # Create multiple numbered files
+touch filename                   # Create a single file
+touch filename1 filename2        # Create multiple files
+touch filename{1..5}             # Create multiple numbered files
 
 2) cat Command
 
 Insert/view content in files.
 
-cat > filename1   # Insert single-line data
-cat >> filename1  # Insert multiple lines
-cat filename1     # View content
-cat file1 > file2 # Overwrite file2 with file1
-cat file1 >> file2 # Append file1 content to file2
+cat > filename1               # Insert single-line data
+cat >> filename1              # Insert multiple lines
+cat filename1                 # View content
+cat file1 > file2             # Overwrite file2 with file1
+cat file1 >> file2            # Append file1 content to file2
 
 
 3) VI / VIM EDITOR
 vi or vim allows creating and editing large files.
 
 Syntax:
-
 vim filename
 
 Steps:
-
 Open file: vim filename
 Press i to enter INSERT mode.
 Type your content.
