@@ -1,20 +1,22 @@
 # SYSTEM MONITORING & PERFORMANCE
+ ---------------------------------
 
 
-top          # Real-time process & resource usage
-htop         # Interactive version of top
-vmstat       # Memory, process, I/O stats
-sar          # CPU utilization, loads (System Activity Report)
-free -m      # RAM usage in MB
-df -h        # Disk usage in human-readable format
-who          # Show logged-in users
-whoami       # Show current user with date and time
-uptime       # System uptime
-last         # User login history since system start
-lscpu        # CPU information
-uname -r     # Kernel version
+> top          # Real-time process & resource usage
+> htop         # Interactive version of top
+> vmstat       # Memory, process, I/O stats
+> sar          # CPU utilization, loads (System Activity Report)
+> free -m      # RAM usage in MB
+> df -h        # Disk usage in human-readable format
+> who          # Show logged-in users
+> whoami       # Show current user with date and time
+> uptime       # System uptime
+> last         # User login history since system start
+> lscpu        # CPU information
+> uname -r     # Kernel version
 
 NETWORKING COMMANDS
+-------------------
 
 ip a                  # Check private IP address
 curl ipinfo.io        # Get public IP address
@@ -28,6 +30,7 @@ wget https://example.com # Download data from web
 curl https://example.com # View web content
 
 GREP COMMANDS
+-------------
 
 grep -i "word" filename       # Search word (case-insensitive)
 grep -in "word" filename      # Search word, show line numbers
@@ -45,6 +48,7 @@ grep -i "word$" filename      # Match lines ending with "word"
 
 
 WORD COUNT (wc)
+---------------
 
 wc filename    # Count lines, words, characters
 wc -l filename # Count lines
@@ -53,8 +57,9 @@ wc -w filename # Count words
 
 
 FIND COMMAND
+-------------
 
-The find command searches for files/directories recursively based on name, size, type, time, etc.
+> The find command searches for files/directories recursively based on name, size, type, time, etc.
 
 | Purpose                        | Command                         |
 | ------------------------------ | ------------------------------- |
