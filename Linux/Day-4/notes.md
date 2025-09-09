@@ -18,42 +18,42 @@
 NETWORKING COMMANDS
 -------------------
 
-ip a                  # Check private IP address
-curl ipinfo.io        # Get public IP address
-curl ipconfig.io      # Get public IP address
-ping google.com       # Test network connectivity
-traceroute google.com # Trace path packets take
-nslookup google.com   # DNS resolution
-dig google.com        # Detailed DNS information
-netstat -tulnp        # List listening ports
-wget https://example.com # Download data from web
-curl https://example.com # View web content
+> ip a                  # Check private IP address
+> curl ipinfo.io        # Get public IP address
+> curl ipconfig.io      # Get public IP address
+> ping google.com       # Test network connectivity
+> traceroute google.com # Trace path packets take
+> nslookup google.com   # DNS resolution
+> dig google.com        # Detailed DNS information
+> netstat -tulnp        # List listening ports
+> wget https://example.com # Download data from web
+> curl https://example.com # View web content
 
 GREP COMMANDS
 -------------
 
-grep -i "word" filename       # Search word (case-insensitive)
-grep -in "word" filename      # Search word, show line numbers
-grep -ic "word" filename      # Count matches
-grep -r "word" directory      # Search recursively in directory
-grep -iv "word" filename      # Show lines NOT matching
-grep -w "word" filename       # Match whole word
-grep -il "word" filename      # Show only filenames
-grep -iA5 "word" filename     # Show 5 lines after match
-grep -iB5 "word" filename     # Show 5 lines before match
-grep -iC5 "word" filename     # Show 5 lines before & after
-grep -iE "dog|cat" filename   # Match multiple patterns
-grep -i "^word" filename      # Match lines starting with "word"
-grep -i "word$" filename      # Match lines ending with "word"
+> grep -i "word" filename       # Search word (case-insensitive)
+> grep -in "word" filename      # Search word, show line numbers
+> grep -ic "word" filename      # Count matches
+> grep -r "word" directory      # Search recursively in directory
+> grep -iv "word" filename      # Show lines NOT matching
+> grep -w "word" filename       # Match whole word
+> grep -il "word" filename      # Show only filenames
+> grep -iA5 "word" filename     # Show 5 lines after match
+> grep -iB5 "word" filename     # Show 5 lines before match
+> grep -iC5 "word" filename     # Show 5 lines before & after
+> grep -iE "dog|cat" filename   # Match multiple patterns
+> grep -i "^word" filename      # Match lines starting with "word"
+> grep -i "word$" filename      # Match lines ending with "word"
 
 
 WORD COUNT (wc)
 ---------------
 
-wc filename    # Count lines, words, characters
-wc -l filename # Count lines
-wc -c filename # Count characters
-wc -w filename # Count words
+> wc filename    # Count lines, words, characters
+> wc -l filename # Count lines
+> wc -c filename # Count characters
+> wc -w filename # Count words
 
 
 FIND COMMAND
