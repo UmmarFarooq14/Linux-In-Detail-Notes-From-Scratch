@@ -42,13 +42,13 @@ Copy code
 ls --help   # Shows all available flags for 'ls'
 Difference Between man & help
 
-|Feature	          | man (manual)	             | --help (quick help)    |
-|-------------------------------------------------------------------------|
-|Detail	             Very detailed (official)	    Quick & concise         |
-|                                                                         |
-|Internet Needed	    No	                        No                      |
-|                                                                         |
-|Formatting	         Paginated,                  organized	Plain text    |
-|                                                                         |
-|Ideal Use Case	     Deep understanding	        Quick usage/flag reference|
----------------------------------------------------------------------------
+|Feature	          | man (manual)	             | --help (quick help)      |
+|-------------------------------------------------------------------------  |
+|Detail	             Very detailed (official)	    Quick & concise           |
+|                                                                           |
+|Internet Needed	    No	                        No                        |
+|                                                                           |
+|Formatting	         Paginated,                  organized	Plain text      |
+|                                                                           |
+|Ideal Use Case	     Deep understanding	        Quick usage/flag reference  |
+----------------------------------------------------------------------------
