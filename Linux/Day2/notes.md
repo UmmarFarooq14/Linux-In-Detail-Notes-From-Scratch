@@ -27,7 +27,9 @@ EXAMPLES - Sample usage
 
 SEE ALSO - Related commands
 
-2) --help
+ ## 2) --help:
+-------------
+
 Prints a quick summary of options and usage for a command.
 
 Syntax:
