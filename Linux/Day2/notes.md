@@ -48,7 +48,7 @@ Difference Between man & help
 |-------------------------------------------------------------------------  |
 |Detail	             Very detailed (official)	    Quick & concise           |
 |                                                                           |
-|Internet Needed	    No	                        No                        |
+|Internet Needed	    No	                        No                          |
 |                                                                           |
 |Formatting	         Paginated,                  organized	Plain text      |
 |                                                                           |
