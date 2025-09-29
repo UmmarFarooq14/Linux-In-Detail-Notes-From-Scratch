@@ -4,9 +4,10 @@
 There are two essential tools for finding help and understanding how commands work in detail.
 
 ## 1) Manual Pages (man)
+   
 
 **Syntax:**
-```bash
+bash
 man [command name]
 Example:
 
