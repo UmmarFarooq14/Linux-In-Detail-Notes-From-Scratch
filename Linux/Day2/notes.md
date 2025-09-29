@@ -4,7 +4,8 @@
 
 There are two essential tools for finding help and understanding how commands work in detail.
 
-## 1) Manual Pages (man)
+1) Manual Pages (man)
+   -----------------   
    
 
 **Syntax:**
