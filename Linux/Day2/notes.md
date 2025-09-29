@@ -10,8 +10,7 @@
 
   Syntax:
   -------
-   --> bash
-    --> man [command name]
+     man [command name]
 Example:
 
 bash
