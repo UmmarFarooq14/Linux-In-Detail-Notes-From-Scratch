@@ -9,8 +9,8 @@
    
 
 **Syntax:**
-bash
-man [command name]
+    bash
+    man [command name]
 Example:
 
 bash
