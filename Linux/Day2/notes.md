@@ -12,10 +12,11 @@
   -------
      man [command name]
 Example:
+--------
 
-bash
-Copy code
-man ls     # Shows the manual for the 'ls' command
+
+    Copy code
+    man ls     # Shows the manual for the 'ls' command
 Common Manual Page Sections:
 
 NAME - What the command does
