@@ -1,5 +1,6 @@
 
 # LINUX DOCUMENTATION
+  -------------------
 
 There are two essential tools for finding help and understanding how commands work in detail.
 
