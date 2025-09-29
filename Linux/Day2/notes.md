@@ -8,9 +8,10 @@
    -----------------   
    
 
-**Syntax:**
-    bash
-    man [command name]
+  Syntax:
+  -------
+   --> bash
+    --> man [command name]
 Example:
 
 bash
