@@ -37,10 +37,10 @@ Common Manual Page Sections:
     Prints a quick summary of options and usage for a command.
 
 Syntax:
-
-bash
-Copy code
-command --help
+-------
+    Copy code
+    command --help
+    
 Example:
 
 bash
