@@ -13,11 +13,11 @@
      man [command name]
 Example:
 --------
-
-
     Copy code
     man ls     # Shows the manual for the 'ls' command
+    
 Common Manual Page Sections:
+----------------------------
 
 NAME - What the command does
 
