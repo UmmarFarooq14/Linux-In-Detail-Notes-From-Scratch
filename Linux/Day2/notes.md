@@ -38,15 +38,14 @@ Common Manual Page Sections:
 
 Syntax:
 -------
-    Copy code
+
     command --help
     
 Example:
 -------
 
-bash
-Copy code
 ls --help   # Shows all available flags for 'ls'
+
 Difference Between man & help
 
 |Feature	          | man (manual)	             | --help (quick help)      |
