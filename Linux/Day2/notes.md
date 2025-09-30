@@ -46,7 +46,8 @@ Example:
 
     ls --help   # Shows all available flags for 'ls'
 
-Difference Between man & help
+Difference Between man & help:
+------------------------------
 
 |Feature	          | man (manual)	             | --help (quick help)      |
 |-------------------------------------------------------------------------  |
