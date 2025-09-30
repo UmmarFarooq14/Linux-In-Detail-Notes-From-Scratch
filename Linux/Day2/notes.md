@@ -19,17 +19,17 @@ Example:
 Common Manual Page Sections:
 ----------------------------
 
-NAME - What the command does
-
-SYNOPSIS - How to use it (Syntax)
-
-DESCRIPTION - Detailed explanation
-
-OPTIONS - List of flags/switches
-
-EXAMPLES - Sample usage
-
-SEE ALSO - Related commands
+    NAME - What the command does
+    
+    SYNOPSIS - How to use it (Syntax)
+    
+    DESCRIPTION - Detailed explanation
+    
+    OPTIONS - List of flags/switches
+    
+    EXAMPLES - Sample usage
+    
+    SEE ALSO - Related commands
 
  ## 2) --help:
 -------------
