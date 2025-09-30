@@ -42,6 +42,7 @@ Syntax:
     command --help
     
 Example:
+-------
 
 bash
 Copy code
