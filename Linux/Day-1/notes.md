@@ -11,9 +11,9 @@
 
  REQUIREMENTS TO LEARN LINUX:
  ----------------------------
-   - A good condition laptop with network connectivity.
-   - To connect to servers we use tools like Git Bash, PowerShell, MobileX, PuTTY, Eclipse.
-   - An AWS Account is needed to create instances.
+    - A good condition laptop with network connectivity.
+    - To connect to servers we use tools like Git Bash, PowerShell, MobileX, PuTTY, Eclipse.
+    - An AWS Account is needed to create instances.
 
 ---
 
