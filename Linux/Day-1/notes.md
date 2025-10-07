@@ -1,11 +1,11 @@
  HISTORY OF LINUX:
  ------------------
  
-  - 1969: Ken Thompson and Dennis Ritchie at AT&T’s Bell Labs created UNIX, a powerful, multiuser operating system.
-  - UNIX became popular in universities and was the inspiration for many later operating systems, including Linux.
-  - Linux was created by Linus Torvalds in 1991.
-  - Linux is a Free, Open-source, Kernel operating System. It’s used in Systems, Services, Embedded Systems, and Mobile Devices.
-  - Linux is a Case-sensitive Operating System.
+   - 1969: Ken Thompson and Dennis Ritchie at AT&T’s Bell Labs created UNIX, a powerful, multiuser operating system.
+   - UNIX became popular in universities and was the inspiration for many later operating systems, including Linux.
+   - Linux was created by Linus Torvalds in 1991.
+   - Linux is a Free, Open-source, Kernel operating System. It’s used in Systems, Services, Embedded Systems, and Mobile Devices.
+   - Linux is a Case-sensitive Operating System.
 
 ---
 
