@@ -17,14 +17,14 @@
 
 ---
 
-# COMPONENTS OF LINUX
-- Hardware  
-- Kernel  
-- Shell  
-- System Libraries  
-- User Applications  
-
----
+ COMPONENTS OF LINUX:
+ --------------------
+ 
+    - Hardware  
+    - Kernel  
+    - Shell  
+    - System Libraries  
+    - User Applications  
 
 # TOPICS TO COVER IN LINUX
 - Linux Documentation
