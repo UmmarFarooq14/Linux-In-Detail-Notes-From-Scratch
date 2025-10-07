@@ -7,7 +7,7 @@
     - Linux is a Free, Open-source, Kernel operating System. It’s used in Systems, Services, Embedded Systems, and Mobile Devices.
     - Linux is a Case-sensitive Operating System.
 
----
+
 
  REQUIREMENTS TO LEARN LINUX:
  ----------------------------
@@ -15,7 +15,7 @@
     - To connect to servers we use tools like Git Bash, PowerShell, MobileX, PuTTY, Eclipse.
     - An AWS Account is needed to create instances.
 
----
+
 
  COMPONENTS OF LINUX:
  --------------------
@@ -26,21 +26,23 @@
     - System Libraries  
     - User Applications  
 
-# TOPICS TO COVER IN LINUX
-- Linux Documentation
-- Components of Linux
-- Basic Linux Commands
-- File Systems
-- Vi Editor
-- User & Group Management
-- Process Management
-- Package Management
-- Networking in Linux
-- Security & Permissions
-- System Monitoring & Performance
-- Cron Jobs & Scheduling
-- Linux Boot Process & Patching
-- Linux Kernel System
-- Backup & Recovery
-- Important Port Numbers
-- Disk Management
+ TOPICS TO COVER IN LINUX:
+ -------------------------
+ 
+    - Linux Documentation
+    - Components of Linux
+    - Basic Linux Commands
+    - File Systems
+    - Vi Editor
+    - User & Group Management
+    - Process Management
+    - Package Management
+    - Networking in Linux
+    - Security & Permissions
+    - System Monitoring & Performance
+    - Cron Jobs & Scheduling
+    - Linux Boot Process & Patching
+    - Linux Kernel System
+    - Backup & Recovery
+    - Important Port Numbers
+    - Disk Management
