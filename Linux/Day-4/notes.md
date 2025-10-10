@@ -18,16 +18,16 @@
 NETWORKING COMMANDS:
 -------------------
 
-  ip a                  # Check private IP address
-  curl ipinfo.io        # Get public IP address
-  curl ipconfig.io      # Get public IP address
-  ping google.com       # Test network connectivity
-  traceroute google.com # Trace path packets take
-  nslookup google.com   # DNS resolution
-  dig google.com        # Detailed DNS information
-  netstat -tulnp        # List listening ports
-  wget https://example.com # Download data from web
-  curl https://example.com # View web content
+   ip a                  # Check private IP address
+   curl ipinfo.io        # Get public IP address
+   curl ipconfig.io      # Get public IP address
+   ping google.com       # Test network connectivity
+   traceroute google.com # Trace path packets take
+   nslookup google.com   # DNS resolution
+   dig google.com        # Detailed DNS information
+   netstat -tulnp        # List listening ports
+   wget https://example.com # Download data from web
+   curl https://example.com # View web content
 
 GREP COMMANDS
 -------------
