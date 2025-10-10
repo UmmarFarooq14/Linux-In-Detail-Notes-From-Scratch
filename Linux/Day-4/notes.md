@@ -2,18 +2,18 @@
  ---------------------------------
 
 
-   top          # Real-time process & resource usage
-   htop         # Interactive version of top
-   vmstat       # Memory, process, I/O stats
-   sar          # CPU utilization, loads (System Activity Report)
-   free -m      # RAM usage in MB
-   df -h        # Disk usage in human-readable format
-   who          # Show logged-in users
-   whoami       # Show current user with date and time
-   uptime       # System uptime
-   last         # User login history since system start
-   lscpu        # CPU information
-   uname -r     # Kernel version
+    top          # Real-time process & resource usage
+    htop         # Interactive version of top
+    vmstat       # Memory, process, I/O stats
+    sar          # CPU utilization, loads (System Activity Report)
+    free -m      # RAM usage in MB
+    df -h        # Disk usage in human-readable format
+    who          # Show logged-in users
+    whoami       # Show current user with date and time
+    uptime       # System uptime
+    last         # User login history since system start
+    lscpu        # CPU information
+    uname -r     # Kernel version
 
 NETWORKING COMMANDS
 -------------------
