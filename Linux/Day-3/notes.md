@@ -5,10 +5,12 @@
     It is the top-level directory in the Linux File System hierarchy.  
     Every file and directory starts here — it is the parent of all directories.
 
-## Key Points About `/` (Root Directory)
-- `/` is the base of the entire Linux File System.  
-- Everything (files, devices, mounted drives) is located under `/`.  
-- Not to be confused with `/root` (which is the home directory of the root user).  
+Key Points About `/` (Root Directory):
+---------------------------------------
+
+  - `/` is the base of the entire Linux File System.  
+  - Everything (files, devices, mounted drives) is located under `/`.  
+  - Not to be confused with `/root` (which is the home directory of the root user).  
 
 ---
 
