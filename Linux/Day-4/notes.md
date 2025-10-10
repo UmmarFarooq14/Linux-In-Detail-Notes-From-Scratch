@@ -55,10 +55,10 @@ WORD COUNT (wc):
     wc -w filename # Count words
 
 
-FIND COMMAND
+FIND COMMAND:
 -------------
 
--- The find command searches for files/directories recursively based on name, size, type, time, etc.
+    The find command searches for files/directories recursively based on name, size, type, time, etc.
 
 | Purpose                        | Command                         |
 | ------------------------------ | ------------------------------- |
