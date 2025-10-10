@@ -29,22 +29,22 @@ NETWORKING COMMANDS:
     wget https://example.com # Download data from web
     curl https://example.com # View web content
 
-GREP COMMANDS
+GREP COMMANDS:
 -------------
 
--- grep -i "word" filename       # Search word (case-insensitive)
--- grep -in "word" filename      # Search word, show line numbers
--- grep -ic "word" filename      # Count matches
--- grep -r "word" directory      # Search recursively in directory
--- grep -iv "word" filename      # Show lines NOT matching
--- grep -w "word" filename       # Match whole word
--- grep -il "word" filename      # Show only filenames
--- grep -iA5 "word" filename     # Show 5 lines after match
--- grep -iB5 "word" filename     # Show 5 lines before match
--- grep -iC5 "word" filename     # Show 5 lines before & after
--- grep -iE "dog|cat" filename   # Match multiple patterns
--- grep -i "^word" filename      # Match lines starting with "word"
--- grep -i "word$" filename      # Match lines ending with "word"
+    grep -i "word" filename       # Search word (case-insensitive)
+    grep -in "word" filename      # Search word, show line numbers
+    grep -ic "word" filename      # Count matches
+    grep -r "word" directory      # Search recursively in directory
+    grep -iv "word" filename      # Show lines NOT matching
+    grep -w "word" filename       # Match whole word
+    grep -il "word" filename      # Show only filenames
+    grep -iA5 "word" filename     # Show 5 lines after match
+    grep -iB5 "word" filename     # Show 5 lines before match
+    grep -iC5 "word" filename     # Show 5 lines before & after
+    grep -iE "dog|cat" filename   # Match multiple patterns
+    grep -i "^word" filename      # Match lines starting with "word"
+    grep -i "word$" filename      # Match lines ending with "word"
 
 
 WORD COUNT (wc)
