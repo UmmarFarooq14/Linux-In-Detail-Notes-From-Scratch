@@ -52,7 +52,7 @@ WORD COUNT (wc):
     wc filename    # Count lines, words, characters
     wc -l filename # Count lines
     wc -c filename # Count characters
-   -wc -w filename # Count words
+    wc -w filename # Count words
 
 
 FIND COMMAND
