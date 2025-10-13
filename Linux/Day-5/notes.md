@@ -22,7 +22,7 @@ Syntax:
  cat Command
  ------------
 
-  Insert/view content in files.
+   Insert/view content in files.
 
 > cat > filename1               # Insert single-line data
 > cat >> filename1              # Insert multiple lines
