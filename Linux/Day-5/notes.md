@@ -10,7 +10,7 @@
  1) touch Command:
     --------------
 
-    Create files quickly without opening an editor.
+     Create files quickly without opening an editor.
 
 **Syntax:**
 
