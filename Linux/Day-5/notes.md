@@ -34,9 +34,10 @@ Syntax:
      cat file1 >> file2            # Append file1 content to file2
 
 
-3) VI / VIM EDITOR
-   ----------------
-vi or vim allows creating and editing large files.
+ VI / VIM EDITOR:
+----------------
+
+     vi or vim allows creating and editing large files.
 
 Syntax:
 --------
