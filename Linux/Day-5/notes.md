@@ -41,7 +41,7 @@ Syntax:
 
 Syntax:
 --------
-vim filename
+    vim filename
 
 Steps:
 --------
