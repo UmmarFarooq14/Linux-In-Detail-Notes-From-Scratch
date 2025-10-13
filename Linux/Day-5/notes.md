@@ -46,11 +46,11 @@ Syntax:
 Steps:
 --------
 
-> Open file: vim filename
-> Press i to enter INSERT mode.
-> Type your content.
-> Press Esc to exit INSERT mode.
-> Save and exit: :wq!
+    Open file: vim filename
+    Press i to enter INSERT mode.
+    Type your content.
+    Press Esc to exit INSERT mode.
+    Save and exit: :wq!
 
 Useful vi/vim Commands:
 ------------------------
