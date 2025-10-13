@@ -55,15 +55,15 @@ Steps:
 Useful vi/vim Commands:
 ------------------------
 
-> :set num      # Show line numbers
-> :set nonum    # Hide line numbers
-> :645          # Go to line 645
-> dd            # Delete current line
-> :%d           # Delete all lines
-> :/word        # Search word (top to bottom)
-> :?word        # Search word (bottom to top)
-> :3s/old/new   # Replace in line 3
-> :%s/old/new   # Replace all
+    :set num      # Show line numbers
+    :set nonum    # Hide line numbers
+    :645          # Go to line 645
+    dd            # Delete current line
+    :%d           # Delete all lines
+    :/word        # Search word (top to bottom)
+    :?word        # Search word (bottom to top)
+    :3s/old/new   # Replace in line 3
+    :%s/old/new   # Replace all
 
 
 CREATE DIRECTORIES
