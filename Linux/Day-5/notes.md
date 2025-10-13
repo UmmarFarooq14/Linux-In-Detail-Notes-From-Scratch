@@ -7,8 +7,8 @@
 
 
 
- 1) touch Command:
-    --------------
+  touch Command:
+  --------------
 
        Create files quickly without opening an editor.
 
