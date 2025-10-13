@@ -69,10 +69,10 @@ Useful vi/vim Commands:
 CREATE DIRECTORIES
 -------------------
 
-> mkdir dir1              # Create a directory
-> mkdir -v dir1           # Verbose mode
-> mkdir -p parent/child   # Create nested directories
-> ls -lrth dir1/          # Show contents
+    mkdir dir1              # Create a directory
+    mkdir -v dir1           # Verbose mode
+    mkdir -p parent/child   # Create nested directories
+    ls -lrth dir1/          # Show contents
 
 
 TREE COMMAND
