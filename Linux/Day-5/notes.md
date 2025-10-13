@@ -23,12 +23,14 @@ Syntax:
  ------------
 
    Insert/view content in files.
-
-> cat > filename1               # Insert single-line data
-> cat >> filename1              # Insert multiple lines
-> cat filename1                 # View content
-> cat file1 > file2             # Overwrite file2 with file1
-> cat file1 >> file2            # Append file1 content to file2
+   
+Syntax:
+------
+   cat > filename1               # Insert single-line data
+   cat >> filename1              # Insert multiple lines
+   cat filename1                 # View content
+   cat file1 > file2             # Overwrite file2 with file1
+   cat file1 >> file2            # Append file1 content to file2
 
 
 3) VI / VIM EDITOR
