@@ -37,7 +37,8 @@ GROUP MANAGEMENT:
 
 Delete a Group:
 --------------
-groupdel groupname
+
+    groupdel groupname
 
 View Groups:
 ------------
