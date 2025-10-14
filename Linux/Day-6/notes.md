@@ -12,7 +12,7 @@ USER & GROUP MANAGEMENT:
 
 Example:
 --------
-useradd -c "software" suresh
+        useradd -c "software" suresh
 
 DELETE A USER:
 --------------
