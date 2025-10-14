@@ -1,6 +1,7 @@
-# USER & GROUP MANAGEMENT
+USER & GROUP MANAGEMENT:
+------------------------
 
-When joining a new organization, you often create users, add them to groups, and assign permissions.
+    When joining a new organization, you often create users, add them to groups, and assign permissions.
 
 
 ## USER CREATION
