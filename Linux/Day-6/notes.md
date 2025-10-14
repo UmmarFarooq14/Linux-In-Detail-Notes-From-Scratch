@@ -73,7 +73,8 @@ ENABLE SSH LOGIN FOR USER:
 
 GIVE SUDO ACCESS:
 -----------------
-visudo
+    visudo
+    
 # Add the user under User Privileges
 > username   ALL=(ALL)   ALL
 
