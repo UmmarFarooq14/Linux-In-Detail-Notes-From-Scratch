@@ -3,12 +3,11 @@ USER & GROUP MANAGEMENT:
 
     When joining a new organization, you often create users, add them to groups, and assign permissions.
 
+ USER CREATION:
+ -------------
 
-## USER CREATION
-
-
-useradd -c "role" username   # Create a user with a comment
-passwd username              # Set password for a user
+        useradd -c "role" username   # Create a user with a comment
+        passwd username              # Set password for a user
 
 
 Example:
