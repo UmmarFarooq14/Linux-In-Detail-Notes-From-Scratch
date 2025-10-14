@@ -47,8 +47,9 @@ View Groups:
 
 ADD/REMOVE USER TO GROUP:
 -------------------------
-> usermod -aG groupname username   # Add user to group
-> gpasswd -d username groupname    # Remove user from group
+
+     usermod -aG groupname username   # Add user to group
+     gpasswd -d username groupname    # Remove user from group
 
 
 VIEW GROUP PASSWORDS:
