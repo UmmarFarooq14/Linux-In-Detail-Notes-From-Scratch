@@ -65,7 +65,9 @@ LOCK/UNLOCK USER:
 
 ENABLE SSH LOGIN FOR USER:
 --------------------------
-vim /etc/ssh/sshd_config
+
+    vim /etc/ssh/sshd_config
+    
 # Go to line 63, set "PasswordAuthentication yes"
 > :wq!
 
