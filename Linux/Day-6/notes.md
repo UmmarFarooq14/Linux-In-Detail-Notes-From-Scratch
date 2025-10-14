@@ -21,7 +21,7 @@ DELETE A USER:
 
 VIEW USERS:
 -----------
-cat /etc/passwd
+    cat /etc/passwd
 
 VIEW PASSWORDS (hashed):
 ------------------------
