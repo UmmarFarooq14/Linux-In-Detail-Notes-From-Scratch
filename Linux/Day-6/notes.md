@@ -54,7 +54,8 @@ ADD/REMOVE USER TO GROUP:
 
 VIEW GROUP PASSWORDS:
 ---------------------
-cat /etc/gshadow
+
+    cat /etc/gshadow
 
 LOCK/UNLOCK USER:
 ----------------
