@@ -59,8 +59,9 @@ VIEW GROUP PASSWORDS:
 
 LOCK/UNLOCK USER:
 ----------------
-usermod -L username   # Lock user
-usermod -U username   # Unlock user
+
+    usermod -L username   # Lock user
+    usermod -U username   # Unlock user
 
 ENABLE SSH LOGIN FOR USER:
 --------------------------
