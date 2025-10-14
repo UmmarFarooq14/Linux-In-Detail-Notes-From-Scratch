@@ -21,11 +21,14 @@ DELETE A USER:
 
 VIEW USERS:
 -----------
+
     cat /etc/passwd
 
 VIEW PASSWORDS (hashed):
 ------------------------
-cat /etc/shadow
+
+    cat /etc/shadow
+    
 
 GROUP MANAGEMENT:
 ----------------
