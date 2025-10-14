@@ -68,8 +68,8 @@ ENABLE SSH LOGIN FOR USER:
 
     vim /etc/ssh/sshd_config
     
-# Go to line 63, set "PasswordAuthentication yes"
-> :wq!
+     Go to line 63, set "PasswordAuthentication yes"
+     > :wq!
 
 GIVE SUDO ACCESS:
 -----------------
