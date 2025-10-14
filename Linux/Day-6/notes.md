@@ -42,7 +42,8 @@ Delete a Group:
 
 View Groups:
 ------------
-cat /etc/group
+
+    cat /etc/group
 
 ADD/REMOVE USER TO GROUP:
 -------------------------
