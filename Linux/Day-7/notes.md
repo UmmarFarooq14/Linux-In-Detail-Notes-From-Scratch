@@ -47,8 +47,8 @@
 
 KILL A PROCESS:
 ---------------
--- kill -9 <PID>
--- Use ps -ef or top to find the PID of the process to kill.
+    -- kill -9 <PID>
+    -- Use ps -ef or top to find the PID of the process to kill.
 
 PACKAGE MANAGEMENT:
 -------------------
