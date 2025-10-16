@@ -39,12 +39,11 @@
 
 
 
-## PROCESS COMMANDS
-
-
--- ps            # Show snapshot of current processes
--- ps -ef        # Full-format listing with parent-child relation
--- ps -aux       # Show all processes including daemons
+ PROCESS COMMANDS:
+ -----------------
+     -- ps            # Show snapshot of current processes
+     -- ps -ef        # Full-format listing with parent-child relation
+     -- ps -aux       # Show all processes including daemons
 
 KILL A PROCESS:
 ---------------
