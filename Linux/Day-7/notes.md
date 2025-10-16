@@ -3,10 +3,9 @@
 
       A process is a set of instructions being executed in memory.  
 
-   - PID – Process ID  
-   - PPID – Parent Process ID  
+      - PID – Process ID  
+      - PPID – Parent Process ID  
 
----
 
 ## TYPES OF PROCESSES
 1. **Running Process**  
