@@ -6,27 +6,30 @@
       - PID – Process ID  
       - PPID – Parent Process ID  
 
+ TYPES OF PROCESSES:
+ ------------------
+ 
+1. Running Process
+   ----------------
+   
+     - Actively executing on the CPU.  
+     - Example: When you run `top`, it’s running as long as it’s on CPU.
 
-## TYPES OF PROCESSES
-1. **Running Process**  
-   - Actively executing on the CPU.  
-   - Example: When you run `top`, it’s running as long as it’s on CPU.
-
-2. **Stopping Process**  
+3. **Stopping Process**  
    - Temporarily stopped by a signal.  
    - Example: `Ctrl + Z` pauses a process.
 
-3. **Sleeping Process**  
+4. **Sleeping Process**  
    - Not running, waiting for a resource or event.  
    - Example: Waiting for user or file input.
 
-4. **Waiting Process**  
+5. **Waiting Process**  
    - Waiting for a resource or event to continue.
 
-5. **Zombie Process**  
+6. **Zombie Process**  
    - A process that has finished execution but still has an entry in the process table.
 
-6. **Orphan Process**  
+7. **Orphan Process**  
    - A running process whose parent has terminated.
 
 ---
