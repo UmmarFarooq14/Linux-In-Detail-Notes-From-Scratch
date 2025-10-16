@@ -20,9 +20,10 @@
         Temporarily stopped by a signal.  
         Example: `Ctrl + Z` pauses a process.
 
-4. **Sleeping Process**  
-   - Not running, waiting for a resource or event.  
-   - Example: Waiting for user or file input.
+3. Sleeping Process:
+   -----------------
+       Not running, waiting for a resource or event.  
+       Example: Waiting for user or file input.
 
 5. **Waiting Process**  
    - Waiting for a resource or event to continue.
