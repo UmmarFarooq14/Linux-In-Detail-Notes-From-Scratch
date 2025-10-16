@@ -52,7 +52,7 @@ KILL A PROCESS:
 
 PACKAGE MANAGEMENT:
 -------------------
--- Package management refers to installing, upgrading, configuring, and removing software.
+    -- Package management refers to installing, upgrading, configuring, and removing software.
 
 | Distribution       | Package Format | Package Manager     |
 | ------------------ | -------------- | ------------------- |
