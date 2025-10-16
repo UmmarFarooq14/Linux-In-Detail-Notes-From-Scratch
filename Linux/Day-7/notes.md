@@ -29,8 +29,9 @@
    ---------------
        Waiting for a resource or event to continue.
 
-6. **Zombie Process**  
-   - A process that has finished execution but still has an entry in the process table.
+5. Zombie Process:
+   -------------- 
+       A process that has finished execution but still has an entry in the process table.
 
 7. **Orphan Process**  
    - A running process whose parent has terminated.
