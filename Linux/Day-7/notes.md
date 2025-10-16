@@ -33,10 +33,11 @@
    -------------- 
        A process that has finished execution but still has an entry in the process table.
 
-7. **Orphan Process**  
-   - A running process whose parent has terminated.
+6. Orphan Process:
+   ---------------  
+       A running process whose parent has terminated.
 
----
+
 
 ## PROCESS COMMANDS
 
