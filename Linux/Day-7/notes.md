@@ -63,13 +63,13 @@ PACKAGE MANAGEMENT:
 
 Difference Between yum & rpm:
 ----------------------------
-| Feature             | yum                         | rpm                         |
-| ------------------- | --------------------------- | --------------------------- |
-| Full Form           | Yellowdog Updater Modified  | Red Hat Package Manager     |
-| Type                | High-level package manager  | Low-level package manager   |
-| Dependency Handling | Automatically resolves deps | Doesn’t handle dependencies |
-| Data Rollback       | Supports rollback           | No rollback support         |
-| Update Support      | Supports package updates    | Limited                     |
+    | Feature             | yum                         | rpm                         |
+    | ------------------- | --------------------------- | --------------------------- |
+    | Full Form           | Yellowdog Updater Modified  | Red Hat Package Manager     |
+    | Type                | High-level package manager  | Low-level package manager   |
+    | Dependency Handling | Automatically resolves deps | Doesn’t handle dependencies |
+    | Data Rollback       | Supports rollback           | No rollback support         |
+    | Update Support      | Supports package updates    | Limited                     |
 
 Difference Between Hard Link & Soft Link:
 -----------------------------------------
