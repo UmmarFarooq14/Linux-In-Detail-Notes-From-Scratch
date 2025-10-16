@@ -12,8 +12,8 @@
 1. Running Process
    ----------------
    
-     - Actively executing on the CPU.  
-     - Example: When you run `top`, it’s running as long as it’s on CPU.
+      - Actively executing on the CPU.  
+      - Example: When you run `top`, it’s running as long as it’s on CPU.
 
 3. **Stopping Process**  
    - Temporarily stopped by a signal.  
