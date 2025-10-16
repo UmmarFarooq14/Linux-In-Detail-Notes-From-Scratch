@@ -54,12 +54,12 @@ PACKAGE MANAGEMENT:
 -------------------
     -- Package management refers to installing, upgrading, configuring, and removing software.
 
-| Distribution       | Package Format | Package Manager     |
-| ------------------ | -------------- | ------------------- |
-| Ubuntu/Debian      | `.deb`         | `apt`, `dpkg`       |
-| RHEL/CentOS/Fedora | `.rpm`         | `yum`, `dnf`, `rpm` |
-| Arch Linux         | -              | `pacman`            |
-| SUSE               | `.rpm`         | `zypper`            |
+    | Distribution       | Package Format | Package Manager     |
+    | ------------------ | -------------- | ------------------- |
+    | Ubuntu/Debian      | `.deb`         | `apt`, `dpkg`       |
+    | RHEL/CentOS/Fedora | `.rpm`         | `yum`, `dnf`, `rpm` |
+    | Arch Linux         | -              | `pacman`            |
+    | SUSE               | `.rpm`         | `zypper`            |
 
 Difference Between yum & rpm:
 ----------------------------
