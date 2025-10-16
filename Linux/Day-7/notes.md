@@ -73,12 +73,13 @@ Difference Between yum & rpm:
 
 Difference Between Hard Link & Soft Link:
 -----------------------------------------
-| Hard Link                              | Soft Link                          |
-| -------------------------------------- | ---------------------------------- |
-| Copy of a file (points to same data)   | Shortcut/reference to a file       |
-| Works only for files                   | Works for files and directories    |
-| Shares same inode as original file     | Has a different inode              |
-| Deleting original does NOT affect link | Deleting original breaks soft link |
+
+   | Hard Link                              | Soft Link                          |
+   | -------------------------------------- | ---------------------------------- |
+   | Copy of a file (points to same data)   | Shortcut/reference to a file       |
+   | Works only for files                   | Works for files and directories    |
+   | Shares same inode as original file     | Has a different inode              |
+   | Deleting original does NOT affect link | Deleting original breaks soft link |
 
 
 
