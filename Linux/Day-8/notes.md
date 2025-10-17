@@ -81,13 +81,13 @@ MANAGING CRON JOBS:
 SPECIAL STRINGS:
 -----------------
 
-| String   | Meaning               |
-| -------- | --------------------- |
-| @reboot  | Run at system startup |
-| @daily   | Run once a day        |
-| @weekly  | Run once a week       |
-| @monthly | Run once a month      |
-| @yearly  | Run once a year       |
+     | String   | Meaning               |
+     | -------- | --------------------- |
+     | @reboot  | Run at system startup |
+     | @daily   | Run once a day        |
+     | @weekly  | Run once a week       |
+     | @monthly | Run once a month      |
+     | @yearly  | Run once a year       |
 
 
 
