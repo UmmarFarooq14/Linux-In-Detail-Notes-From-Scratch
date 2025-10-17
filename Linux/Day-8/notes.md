@@ -1,13 +1,15 @@
-# SECURITY & PERMISSIONS
+ SECURITY & PERMISSIONS:
+ -----------------------
 
 
-## UMASK (User Mask)
+UMASK (User Mask):
+-----------------
 
-- **umask** sets default permissions for new files and directories.
-- Default umask: `0022`
-- Default permissions:  
-  - Directories: `755` (rwxr-xr-x)  
-  - Files: `644` (rw-r--r--)  
+        - umask sets default permissions for new files and directories.
+        - Default umask: `0022`
+        - Default permissions:  
+          - Directories: `755` (rwxr-xr-x)  
+          - Files: `644` (rw-r--r--)  
 
 **Calculation:**
 
