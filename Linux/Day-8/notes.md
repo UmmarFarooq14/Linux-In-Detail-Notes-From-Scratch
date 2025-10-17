@@ -29,14 +29,14 @@ Calculation:
     | Execute    | x      | 1     |
 
 
+ USER TYPES:
+ ----------
 
-## USER TYPES
-
-| Symbol | User Type |
-|--------|-----------|
-| u      | User      |
-| g      | Group     |
-| o      | Others    |
+    | Symbol | User Type |
+    |--------|-----------|
+    | u      | User      |
+    | g      | Group     |
+    | o      | Others    |
 
 
 
