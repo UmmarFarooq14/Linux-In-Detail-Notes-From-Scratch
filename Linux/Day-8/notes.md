@@ -72,10 +72,11 @@ CRON JOB FORMAT:
 
 MANAGING CRON JOBS:
 -------------------
--- sudo yum install cronie       # Install cron service
--- crontab -l                    # List cron jobs
--- crontab -e                    # Edit cron jobs
--- crontab -r                    # Remove cron jobs
+
+    -- sudo yum install cronie       # Install cron service
+    -- crontab -l                    # List cron jobs
+    -- crontab -e                    # Edit cron jobs
+    -- crontab -r                    # Remove cron jobs
 
 SPECIAL STRINGS:
 -----------------
