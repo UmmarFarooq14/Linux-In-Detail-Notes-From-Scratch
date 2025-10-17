@@ -61,13 +61,14 @@ CRON JOBS & SCHEDULING:
 
 CRON JOB FORMAT:
 ----------------
-* * * * * /path/to/command
-│ │ │ │ │
-│ │ │ │ └── Day of week (0-7) (Sunday=0 or 7)
-│ │ │ └──── Month (1-12)
-│ │ └────── Day (1-31)
-│ └──────── Hour (0-23)
-└────────── Minute (0-59)
+
+      * * * * * /path/to/command
+      │ │ │ │ │
+      │ │ │ │ └── Day of week (0-7) (Sunday=0 or 7)
+      │ │ │ └──── Month (1-12)
+      │ │ └────── Day (1-31)
+      │ └──────── Hour (0-23)
+      └────────── Minute (0-59)
 
 MANAGING CRON JOBS:
 -------------------
