@@ -39,12 +39,13 @@
      5. **Network Stack** – TCP/IP handling  
      6. **System Call Interface (SCI)** – API for user apps to interact with kernel
 
----
 
-# BACKUP & RECOVERY
 
--- Backup: A copy of data stored elsewhere to protect against data loss due to  
--- hardware failure, human error, malware, or accidental deletion.
+ BACKUP & RECOVERY:
+ -----------------
+
+    -- Backup: A copy of data stored elsewhere to protect against data loss due to  
+    -- hardware failure, human error, malware, or accidental deletion.
 
 
 
