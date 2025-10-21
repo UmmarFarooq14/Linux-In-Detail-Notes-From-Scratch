@@ -59,21 +59,22 @@
      | Differential Backup | Backs up changes since last full backup.                       |
      | Remote Backup       | Backup to remote server/cloud (e.g., rsync, scp).              |
 
----
 
-## COMMON BACKUP TOOLS
 
-| Tool         | Use Case                 | Description                                |
-|-------------|-------------------------|--------------------------------------------|
-| cp          | Simple copies           | Copy files/directories                     |
-| rsync       | Sync/backup             | Fast incremental backup                    |
-| tar         | Archiving               | Create compressed archives                |
-| dd          | Disk imaging            | Bit-by-bit disk backup                    |
-| scp/sftp    | Remote backups          | Copy files over SSH                       |
-| cron+script | Automation              | Schedule backups                          |
-| dump/restore| Ext filesystem backups  | Backup ext2/ext3/ext4                     |
-| Timeshift   | System restore          | Desktop backup utility                    |
-| Bacula, Amanda, BackupPC | Enterprise backup software | Advanced solutions |
+ COMMON BACKUP TOOLS:
+ --------------------
+
+    | Tool         | Use Case                 | Description                                |
+    |-------------|-------------------------|--------------------------------------------|
+    | cp          | Simple copies           | Copy files/directories                     |
+    | rsync       | Sync/backup             | Fast incremental backup                    |
+    | tar         | Archiving               | Create compressed archives                |
+    | dd          | Disk imaging            | Bit-by-bit disk backup                    |
+    | scp/sftp    | Remote backups          | Copy files over SSH                       |
+    | cron+script | Automation              | Schedule backups                          |
+    | dump/restore| Ext filesystem backups  | Backup ext2/ext3/ext4                     |
+    | Timeshift   | System restore          | Desktop backup utility                    |
+    | Bacula, Amanda, BackupPC | Enterprise backup software | Advanced solutions |
 
 ---
 
