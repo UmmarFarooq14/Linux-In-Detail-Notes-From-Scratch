@@ -27,16 +27,17 @@
     | Networking              | Enable communication between systems               |
     | Security                | Manage permissions, system calls, SELinux          |
 
----
 
-## KERNEL COMPONENTS
 
-1. **Process Scheduler** – Controls execution of processes  
-2. **Memory Manager** – Allocates and frees memory  
-3. **Virtual File System (VFS)** – Interface for different file systems  
-4. **Device Drivers** – Connect kernel with hardware  
-5. **Network Stack** – TCP/IP handling  
-6. **System Call Interface (SCI)** – API for user apps to interact with kernel
+ KERNEL COMPONENTS:
+ ------------------
+
+     1. **Process Scheduler** – Controls execution of processes  
+     2. **Memory Manager** – Allocates and frees memory  
+     3. **Virtual File System (VFS)** – Interface for different file systems  
+     4. **Device Drivers** – Connect kernel with hardware  
+     5. **Network Stack** – TCP/IP handling  
+     6. **System Call Interface (SCI)** – API for user apps to interact with kernel
 
 ---
 
