@@ -95,7 +95,8 @@ Using rsync:
 
 Remote Backup via scp:
 ---------------------
--- scp -r /var/log user@192.168.1.10:/backup/logs/
+
+     -- scp -r /var/log user@192.168.1.10:/backup/logs/
 
 RECOVERY EXAMPLES:
 -------------------
