@@ -108,7 +108,7 @@ Restore using tar:
 Restore using rsync:
 --------------------
 
-   -- rsync -avh /backup/home/ /home/
+    -- rsync -avh /backup/home/ /home/
 
 BACKUP BEST PRACTICES:
 ----------------------
