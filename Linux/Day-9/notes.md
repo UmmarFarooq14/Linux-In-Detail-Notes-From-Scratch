@@ -89,9 +89,9 @@
 
 Using rsync:
 ------------
-rsync -avh /home/ /backup/home/
 
--- a=archive, v=verbose, h=human-readable
+      rsync -avh /home/ /backup/home/
+      -- a=archive, v=verbose, h=human-readable
 
 Remote Backup via scp:
 ---------------------
