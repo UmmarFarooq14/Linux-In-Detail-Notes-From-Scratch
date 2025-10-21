@@ -4,15 +4,16 @@
         -- The Linux Kernel is the core component of the Linux operating system.  
         -- It acts as a bridge between hardware and software, managing system resources and services.
 
----
 
-## TYPES OF KERNELS
 
-| Type               | Description                                             |
-|--------------------|---------------------------------------------------------|
-| Monolithic Kernel  | Entire OS runs in a single address space (Linux uses this) |
-| Microkernel        | Minimal services in kernel space; rest in user space    |
-| Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    |
+ TYPES OF KERNELS:
+ -----------------
+
+      | Type               | Description                                             |
+      |--------------------|---------------------------------------------------------|
+      | Monolithic Kernel  | Entire OS runs in a single address space (Linux uses this) |
+      | Microkernel        | Minimal services in kernel space; rest in user space    |
+      | Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    |
 
 ---
 
