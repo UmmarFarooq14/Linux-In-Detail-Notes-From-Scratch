@@ -103,7 +103,7 @@ RECOVERY EXAMPLES:
 Restore using tar:
 -----------------
 
--- tar -xvpzf /backup/home_backup.tar.gz -C /
+    -- tar -xvpzf /backup/home_backup.tar.gz -C /
 
 Restore using rsync:
 --------------------
