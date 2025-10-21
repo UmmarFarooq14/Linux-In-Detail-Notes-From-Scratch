@@ -76,14 +76,16 @@
     | Timeshift   | System restore          | Desktop backup utility                    |
     | Bacula, Amanda, BackupPC | Enterprise backup software | Advanced solutions |
 
----
 
-## BACKUP EXAMPLES
 
-### Using `tar`:
--- tar -cvpzf /backup/home_backup.tar.gz /home
+ BACKUP EXAMPLES:
+ ----------------
 
--- c=create, v=verbose, p=preserve perms, z=gzip, f=filename
+ Using `tar`:
+ ------------
+ 
+  -- tar -cvpzf /backup/home_backup.tar.gz /home
+  -- c=create, v=verbose, p=preserve perms, z=gzip, f=filename
 
 Using rsync:
 ------------
