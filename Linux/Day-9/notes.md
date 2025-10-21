@@ -84,8 +84,8 @@
  Using `tar`:
  ------------
  
-  -- tar -cvpzf /backup/home_backup.tar.gz /home
-  -- c=create, v=verbose, p=preserve perms, z=gzip, f=filename
+     -- tar -cvpzf /backup/home_backup.tar.gz /home
+     -- c=create, v=verbose, p=preserve perms, z=gzip, f=filename
 
 Using rsync:
 ------------
