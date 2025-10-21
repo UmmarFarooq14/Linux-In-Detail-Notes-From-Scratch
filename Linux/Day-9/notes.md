@@ -13,20 +13,19 @@
       |--------------------|---------------------------------------------------------|
       | Monolithic Kernel  | Entire OS runs in a single address space (Linux uses this) |
       | Microkernel        | Minimal services in kernel space; rest in user space    |
-      | Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    |
+      | Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    
 
----
+ MAIN RESPONSIBILITIES:
+ ----------------------
 
-## MAIN RESPONSIBILITIES
-
-| Function                | Description                                         |
-|------------------------|-----------------------------------------------------|
-| Process Management      | Schedule processes, manage multitasking, priorities|
-| Memory Management       | Handle RAM allocation, virtual memory, swap        |
-| File System Management  | Manage read/write, permissions, mount points       |
-| Device Management       | Use drivers to interact with hardware              |
-| Networking              | Enable communication between systems               |
-| Security                | Manage permissions, system calls, SELinux          |
+    | Function                | Description                                         |
+    |------------------------|-----------------------------------------------------|
+    | Process Management      | Schedule processes, manage multitasking, priorities|
+    | Memory Management       | Handle RAM allocation, virtual memory, swap        |
+    | File System Management  | Manage read/write, permissions, mount points       |
+    | Device Management       | Use drivers to interact with hardware              |
+    | Networking              | Enable communication between systems               |
+    | Security                | Manage permissions, system calls, SELinux          |
 
 ---
 
