@@ -46,16 +46,17 @@
 -- Backup: A copy of data stored elsewhere to protect against data loss due to  
 -- hardware failure, human error, malware, or accidental deletion.
 
----
 
-## TYPES OF BACKUPS
 
-| Type                | Description                                                    |
-|---------------------|----------------------------------------------------------------|
-| Full Backup         | Backs up all data every time. Time-consuming, storage-heavy.   |
-| Incremental Backup  | Backs up changes since last backup (full or incremental).      |
-| Differential Backup | Backs up changes since last full backup.                       |
-| Remote Backup       | Backup to remote server/cloud (e.g., rsync, scp).              |
+ TYPES OF BACKUPS:
+ -----------------
+
+     | Type                | Description                                                    |
+     |---------------------|----------------------------------------------------------------|
+     | Full Backup         | Backs up all data every time. Time-consuming, storage-heavy.   |
+     | Incremental Backup  | Backs up changes since last backup (full or incremental).      |
+     | Differential Backup | Backs up changes since last full backup.                       |
+     | Remote Backup       | Backup to remote server/cloud (e.g., rsync, scp).              |
 
 ---
 
