@@ -11,6 +11,7 @@
   Syntax:
   -------
      man [command name]
+     
 Example:
 --------
     Copy code
