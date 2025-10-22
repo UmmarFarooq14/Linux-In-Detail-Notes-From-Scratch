@@ -14,7 +14,6 @@
      
 Example:
 --------
-    Copy code
     man ls     # Shows the manual for the 'ls' command
     
 Common Manual Page Sections:
