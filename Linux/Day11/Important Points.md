@@ -1,3 +1,3 @@
-TO Display Hostname with Ip Address:
+To Display Hostname with Ip Address:
 ------------------------------------
  
