@@ -11,3 +11,4 @@ To Display only IP Address:
         
 If u want to display since how many weeks ur logging in server:
 --------------------------------------------------------------
+uptime -p
