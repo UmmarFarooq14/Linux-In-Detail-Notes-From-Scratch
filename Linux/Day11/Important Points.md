@@ -14,3 +14,5 @@ If u want to display since how many weeks ur logging in server:
     uptime -p
 
 If u want to display in date format since loggingin server:
+-----------------------------------------------------------
+uptime -s
