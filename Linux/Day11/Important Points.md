@@ -15,4 +15,4 @@ If u want to display since how many weeks ur logging in server:
 
 If u want to display in date format since loggingin server:
 -----------------------------------------------------------
-uptime -s
+    uptime -s
