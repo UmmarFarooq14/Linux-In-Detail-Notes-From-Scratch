@@ -7,4 +7,4 @@ Command:
 
 To Display only IP Address:
 ---------------------------
-if config
+        if config
