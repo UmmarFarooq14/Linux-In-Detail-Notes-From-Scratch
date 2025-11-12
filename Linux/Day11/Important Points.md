@@ -16,3 +16,7 @@ If u want to display since how many weeks ur logging in server:
 If u want to display in date format since loggingin server:
 -----------------------------------------------------------
     uptime -s
+
+
+If I want to see the live crontab generate result:
+
