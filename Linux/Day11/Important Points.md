@@ -39,3 +39,5 @@ Scenario:
     --------
     echo "enter the content" | tee -a filename
     
+Pipes:
+------
