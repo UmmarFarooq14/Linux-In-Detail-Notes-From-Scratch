@@ -41,3 +41,4 @@ Scenario:
     
 Pipes:
 ------
+    Pipes is used by the shell to connect the output of one command dircetly to the input of the another command.
