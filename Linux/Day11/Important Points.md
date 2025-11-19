@@ -33,5 +33,9 @@ command:
     
 Scenario:
 ---------
-    If we want to add multiple lines using a tee command the we use command
+    If we want to append multiple lines into the file using a tee command the we use command
+    
+    command:
+    --------
+    echo "enter the content" | tee -a filename
     
