@@ -12,3 +12,6 @@ Commands to assign and  remove ACL Permission are:
 --------------------------------------------------
     setfacl
     getfacl
+
+List of commands for setting up ACL:
+------------------------------------
