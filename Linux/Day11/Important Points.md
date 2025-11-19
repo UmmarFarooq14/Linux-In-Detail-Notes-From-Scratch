@@ -45,3 +45,10 @@ Pipes:
     The symbol for a pipe is the vertical bar (|). The command syntax is:
     
     command [argument1] | command2 [argument2]
+    
+Execution of multiple commands:
+-------------------------------
+commands:
+---------
+echo "Hello" ; echo "World"
+mkdir test_dir; cd test_dir; touch "test file.txt"
