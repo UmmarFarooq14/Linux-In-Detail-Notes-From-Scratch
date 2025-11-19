@@ -50,5 +50,5 @@ Execution of multiple commands:
 -------------------------------
 commands:
 ---------
-echo "Hello" ; echo "World"
-mkdir test_dir; cd test_dir; touch "test file.txt"
+    echo "Hello" ; echo "World"
+    mkdir test_dir; cd test_dir; touch "test file.txt"
