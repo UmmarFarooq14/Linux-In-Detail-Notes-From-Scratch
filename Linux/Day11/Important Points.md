@@ -29,3 +29,5 @@ Tee Command:
     
 command:
 --------
+    echo "enter the content" | tee filename
+    
