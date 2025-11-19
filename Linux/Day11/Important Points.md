@@ -31,3 +31,7 @@ command:
 --------
     echo "enter the content" | tee filename
     
+Scenario:
+---------
+If we want to add multiple lines using a tee command the we use command
+    
