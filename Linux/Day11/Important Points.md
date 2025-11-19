@@ -48,6 +48,7 @@ Pipes:
     
 Execution of multiple commands:
 -------------------------------
+    Execution of multiple commands in a single line using semi-colon (;) 
 commands:
 ---------
     echo "Hello" ; echo "World"
