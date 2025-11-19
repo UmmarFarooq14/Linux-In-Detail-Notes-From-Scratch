@@ -42,3 +42,6 @@ Scenario:
 Pipes:
 ------
     Pipes is used by the shell to connect the output of one command dircetly to the input of the another command.
+    The symbol for a pipe is the vertical bar (|). The command syntax is:
+    
+    command [argument1] | command2 [argument2]
