@@ -33,5 +33,5 @@ command:
     
 Scenario:
 ---------
-If we want to add multiple lines using a tee command the we use command
+    If we want to add multiple lines using a tee command the we use command
     
