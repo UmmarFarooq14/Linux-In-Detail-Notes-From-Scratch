@@ -78,10 +78,10 @@ Edit /etc/fstab:
 SWAP MANAGEMENT:
 ----------------
 
--- mkswap /dev/sdb2   # Create swap area
--- swapon /dev/sdb2   # Enable swap
--- swapoff /dev/sdb2  # Disable swap
--- free -m            # Check swap usage
+    mkswap /dev/sdb2   # Create swap area
+    swapon /dev/sdb2   # Enable swap
+    swapoff /dev/sdb2  # Disable swap
+    free -m            # Check swap usage
 
 
 
