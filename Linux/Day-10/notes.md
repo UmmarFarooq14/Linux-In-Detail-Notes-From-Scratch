@@ -1,4 +1,5 @@
-# IMPORTANT PORT NUMBERS
+ IMPORTANT PORT NUMBERS:
+ ------------------------
 
 | Port Number | Protocol/Service                 | Description                                   |
 |------------|---------------------------------|-----------------------------------------------|
