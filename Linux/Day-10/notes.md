@@ -36,15 +36,15 @@
 
 
 
-## VIEW DISK INFORMATION
+ VIEW DISK INFORMATION:
+ ---------------------
 
-
--- lsblk          # Show all block devices
--- fdisk -l       # List all partitions
--- parted -l      # Show disk partitions
--- df -h          # Check disk usage in human-readable format
--- du -sh *       # Check directory/file sizes
--- mount          # List mounted filesystems
+   lsblk          # Show all block devices
+   fdisk -l       # List all partitions
+   parted -l      # Show disk partitions
+   df -h          # Check disk usage in human-readable format
+   du -sh *       # Check directory/file sizes
+   mount          # List mounted filesystems
 
 CREATE A PARTITION:
 -------------------
