@@ -1,32 +1,33 @@
  IMPORTANT PORT NUMBERS:
  ------------------------
+ 
 
-| Port Number | Protocol/Service                 | Description                                   |
-|------------|---------------------------------|-----------------------------------------------|
-| 20         | FTP (Data)                      | File Transfer Protocol (Data Channel)         |
-| 21         | FTP (Control)                   | File Transfer Protocol (Control Channel)      |
-| 22         | SSH                             | Secure Shell for remote login                 |
-| 23         | Telnet                          | Remote login (insecure)                       |
-| 25         | SMTP                            | Simple Mail Transfer Protocol                 |
-| 53         | DNS                             | Domain Name System                            |
-| 67, 68     | DHCP                            | Dynamic Host Configuration Protocol           |
-| 80         | HTTP                            | Web traffic                                   |
-| 110        | POP3                            | Post Office Protocol (Receiving mail)         |
-| 123        | NTP                             | Network Time Protocol                         |
-| 143        | IMAP                            | Internet Message Access Protocol              |
-| 161, 162   | SNMP                            | Simple Network Management Protocol            |
-| 389        | LDAP                            | Lightweight Directory Access Protocol         |
-| 443        | HTTPS                           | Secure web traffic                            |
-| 465        | SMTPS                           | SMTP over SSL                                 |
-| 993        | IMAPS                           | IMAP over SSL                                 |
-| 995        | POP3S                           | POP3 over SSL                                 |
-| 3306       | MySQL                           | MySQL database service                        |
-| 3389       | RDP                             | Remote Desktop Protocol                       |
-| 5432       | PostgreSQL                      | PostgreSQL database service                   |
-| 6379       | Redis                           | Redis database                                |
-| 8080       | HTTP (Alternate)                | Alternate HTTP port                           |
-| 9000       | SonarQube, PhpMyAdmin (custom)  | Web-based services                            |
-------------------------------------------------------------------------------------------------
+ | Port Number | Protocol/Service                 | Description                                   |
+ |------------|---------------------------------|-----------------------------------------------|
+ | 20         | FTP (Data)                      | File Transfer Protocol (Data Channel)         |
+ | 21         | FTP (Control)                   | File Transfer Protocol (Control Channel)      |
+ | 22         | SSH                             | Secure Shell for remote login                 |
+ | 23         | Telnet                          | Remote login (insecure)                       |
+ | 25         | SMTP                            | Simple Mail Transfer Protocol                 |
+ | 53         | DNS                             | Domain Name System                            |
+ | 67, 68     | DHCP                            | Dynamic Host Configuration Protocol           |
+ | 80         | HTTP                            | Web traffic                                   |
+ | 110        | POP3                            | Post Office Protocol (Receiving mail)         |
+ | 123        | NTP                             | Network Time Protocol                         |
+ | 143        | IMAP                            | Internet Message Access Protocol              |
+ | 161, 162   | SNMP                            | Simple Network Management Protocol            |
+ | 389        | LDAP                            | Lightweight Directory Access Protocol         |
+ | 443        | HTTPS                           | Secure web traffic                            |
+ | 465        | SMTPS                           | SMTP over SSL                                 |
+ | 993        | IMAPS                           | IMAP over SSL                                 |
+ | 995        | POP3S                           | POP3 over SSL                                 |
+ | 3306       | MySQL                           | MySQL database service                        |
+ | 3389       | RDP                             | Remote Desktop Protocol                       |
+ | 5432       | PostgreSQL                      | PostgreSQL database service                   |
+ | 6379       | Redis                           | Redis database                                |
+ | 8080       | HTTP (Alternate)                | Alternate HTTP port                           |
+ | 9000       | SonarQube, PhpMyAdmin (custom)  | Web-based services                            |
+ ------------------------------------------------------------------------------------------------
 
  DISK MANAGEMENT:
  ----------------
