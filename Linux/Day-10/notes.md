@@ -60,7 +60,7 @@ Steps inside fdisk:
 
 FORMAT PARTITION:
 -----------------
--- mkfs.ext4 /dev/sdb1
+    mkfs.ext4 /dev/sdb1
 
 MOUNT A PARTITION:
 ------------------
