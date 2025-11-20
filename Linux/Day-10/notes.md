@@ -52,11 +52,11 @@ CREATE A PARTITION:
 
 Steps inside fdisk:
 -------------------
-   n  -> New partition
-   p  -> Primary partition
-   1  -> Partition number
-   +10G -> Size
-   w  -> Write changes
+    n  -> New partition
+    p  -> Primary partition
+    1  -> Partition number
+    +10G -> Size
+    w  -> Write changes
 
 FORMAT PARTITION:
 -----------------
