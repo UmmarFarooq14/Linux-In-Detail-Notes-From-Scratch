@@ -29,7 +29,7 @@ NETWORKING COMMANDS:
     wget https://example.com # Download data from web
     curl https://example.com # View web content
 
-GREP COMMANDS:
+GREP COMMANDS [GLobal Regular Expression Print]:
 -------------
 
     grep -i "word" filename       # Search word (case-insensitive)
