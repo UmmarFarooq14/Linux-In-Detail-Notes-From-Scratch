@@ -32,7 +32,7 @@
  DISK MANAGEMENT:
  ----------------
 
-   Disk management includes partitioning, mounting, checking disk usage, and managing storage.
+    Disk management includes partitioning, mounting, checking disk usage, and managing storage.
 
 
 
