@@ -48,7 +48,7 @@
 
 CREATE A PARTITION:
 -------------------
--- fdisk /dev/sdb        # Create a partition on /dev/sdb
+   fdisk /dev/sdb        # Create a partition on /dev/sdb
 
 Steps inside fdisk:
 -------------------
