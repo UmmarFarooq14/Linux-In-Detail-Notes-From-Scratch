@@ -17,6 +17,7 @@ List of commands for setting up ACL:
 ------------------------------------
     1) To add permission for user:
        setfacl -m u:user: rwx /path/to/file
+       
    2) To add permission for group:
        setfacl -m g:group: rw /path/to/file
       
