@@ -33,4 +33,12 @@ List of commands for setting up ACL:
 Note:
 ----
     As you assign the ACL permission to a file/dir it adds + sign at the end of the permission setting with ACL does not allow to remove a file.
-
+    
+Ex:-
+---
+    1) create a file:
+       touch tx
+    2) type getfacl to the permission
+    3) ls -l
+    4) set -m u:user:rwx /path/to/file
+    5) getfacl
