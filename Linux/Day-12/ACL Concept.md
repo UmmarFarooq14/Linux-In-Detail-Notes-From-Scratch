@@ -20,4 +20,8 @@ List of commands for setting up ACL:
        
     2) To add permission for group:
        setfacl -m g:group: rw /path/to/file
+
+    3) To allow all files (or) dir to inherit ACL entries from the dir it is within:
+       setfacl -dm "entry" /path/to/file
+       
       
