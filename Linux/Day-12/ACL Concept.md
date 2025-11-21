@@ -26,5 +26,8 @@ List of commands for setting up ACL:
 
     4) To remove a specific entry
        setfacl -x u:user: /path/to/file (for a specific user)
+
+    5) To remove all entries
+       setfacl -b /path/to/file (for all users)
        
       
