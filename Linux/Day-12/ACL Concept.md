@@ -23,5 +23,8 @@ List of commands for setting up ACL:
 
     3) To allow all files (or) dir to inherit ACL entries from the dir it is within:
        setfacl -dm "entry" /path/to/file
+
+    4) To remove a specific entry
+       setfacl -x u:user: /path/to/file (for a specific user)
        
       
