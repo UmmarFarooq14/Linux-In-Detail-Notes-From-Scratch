@@ -67,6 +67,6 @@ Combining & Spliting files:
 ---------------------------
     Multiple files can be combined into one and one file can be split into multiple files.
 
-   cat file1 file2 file3 > file4
-   split file4 
-   split -l 2 file4 newcreated-filename
+    cat file1 file2 file3 > file4
+    split file4 
+    split -l 2 file4 newcreated-filename
