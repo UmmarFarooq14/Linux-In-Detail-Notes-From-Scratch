@@ -62,3 +62,8 @@ Trunacate file size:
     command:
     --------
     truncate -s 20 filename
+
+Combining & Spliting files:
+---------------------------
+    Multiple files can be combined into one and one file can be split into multiple files.
+
