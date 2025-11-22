@@ -6,9 +6,9 @@ at command:
 Usage:
 -----
 
-    at HH:MM PM  ---> schedule a job.
-    at q         ---> list the at entries
-    at rm #      ---> remove at entry
-    at d         ---> at daemon/service that manages scheduling.
-
+    at HH:MM PM           ---> schedule a job.
+    at q                  ---> list the at entries
+    at rm #               ---> remove at entry
+    at d                  ---> at daemon/service that manages scheduling.
+    systemctl status atd  ---> To manage atd services.
 
