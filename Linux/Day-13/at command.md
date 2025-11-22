@@ -1,7 +1,7 @@
 at command:
 -----------
-  at command is like crontab which allows you to schedule jobs buts only once.
-  when the command is run it will enter interactive mode & you can get out by pressing ctrl + D.
+    at command is like crontab which allows you to schedule jobs buts only once.
+    when the command is run it will enter interactive mode & you can get out by pressing ctrl + D.
 
 Usage:
 -----
