@@ -12,3 +12,9 @@ Usage:
     at d                  ---> at daemon/service that manages scheduling.
     systemctl status atd  ---> To manage atd services.
 
+Schedule at :
+------------
+
+    create at entry by scheduling a task:
+       at 4:45 PM ---> enter
+       echo "This is my first entry" > at_entry
