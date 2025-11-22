@@ -18,3 +18,12 @@ Schedule at :
     create at entry by scheduling a task:
        at 4:45 PM ---> enter
        echo "This is my first entry" > at_entry
+
+other future scheduling format:
+-------------------------------
+
+    at 2:45 AM 101621            ---> schedule a job to run on oct 16th, 2021 at 2:45 AM.
+    at 4PM + 4 days              ---> schedule a job at 4PM four days from now.
+    at now + 5 hours             ---> schedule a job to run five hours from now.
+    at 8:00 AM Sun               ---> schedule a job at 8am on coming sunday.
+    at 10:00 AM next month       ---> schedule a job to 10am on next month.
