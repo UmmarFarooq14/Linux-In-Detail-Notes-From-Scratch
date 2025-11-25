@@ -69,13 +69,15 @@ SOS Report:
 Terminal Control Keys:
 ----------------------
     Several key combinations on your keyboard usually have a special effect on the terminal.
+    
     These "control" CTRL keys are accomplished by holding the CTRL key while typing the second key.
 
     Ex:-
-    CTRL -c means to hold the CTRL key while you type the letter "c".
+        CTRL -c means to hold the CTRL key while you type the letter "c".
     
     The most common keys are listed below:
-    * CTRL -u  --> erase everything you have typed on the command line.
-    * CTRL -c  --> stop/kill a command.
-    * CTRL -z  --> Suspend a command.
-    * CTRL -d  --> exit from interactive program (signals end of data).
+    
+        * CTRL -u  --> erase everything you have typed on the command line.
+        * CTRL -c  --> stop/kill a command.
+        * CTRL -z  --> Suspend a command.
+        * CTRL -d  --> exit from interactive program (signals end of data).
