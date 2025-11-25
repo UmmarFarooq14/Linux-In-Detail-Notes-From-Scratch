@@ -45,6 +45,7 @@ System Monitoring:
 Log Monitoring:
 ---------------
     Another and most important way of system administration is log monitor.
+    
     log directory = /var/log
     boot
     chronyd = NTP
