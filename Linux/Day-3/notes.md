@@ -10,7 +10,7 @@ Key Points About `/` (Root Directory):
 
     `/` is the base of the entire Linux File System.  
     Everything (files, devices, mounted drives) is located under `/`.  
-    Not to be confused with `/root` (which is the home directory of the root user).  
+    Not to be confused with `/root` (which is the home directory of the root user).
 
 
 
