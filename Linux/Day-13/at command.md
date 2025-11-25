@@ -29,4 +29,15 @@ other future scheduling format:
     at 10:00 AM next month       ---> schedule a job to 10am on next month.
 
 System Monitoring:
-
+------------------
+    Top
+    df
+    dmesg
+    iostat
+    netstat -ip & ss
+    free
+    cat /proc/cpuinfo
+    cat /proc/meminfo
+    htop
+    vmstat
+    sar
