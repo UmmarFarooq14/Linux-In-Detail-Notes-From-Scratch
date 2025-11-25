@@ -60,4 +60,10 @@ SOS Report:
     what is sos report:
      collect and package diagnostic and support data.
      
+    Package name:
+     sos-version
+
+    command:
+     sosreport
+     
  
