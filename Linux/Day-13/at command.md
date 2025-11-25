@@ -66,4 +66,5 @@ SOS Report:
     command:
      sosreport
      
- 
+Terminal Control Keys:
+
