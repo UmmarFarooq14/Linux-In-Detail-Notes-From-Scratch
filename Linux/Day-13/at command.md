@@ -41,3 +41,6 @@ System Monitoring:
     htop
     vmstat
     sar
+
+Log Monitoring:
+
