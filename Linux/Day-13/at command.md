@@ -111,5 +111,5 @@ The Screen Command:
 -------------------
 
     * To split the screen into two parts:
-    . alt+a
-      shift+|
+        . alt+a
+          shift+|
