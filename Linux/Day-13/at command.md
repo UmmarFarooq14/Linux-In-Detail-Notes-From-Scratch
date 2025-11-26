@@ -120,3 +120,6 @@ The Screen Command:
     * To move cursor from first half to second half:
         . alt +a
           tab
+    * To get terminal & IP address:
+        . alt+a
+          c
