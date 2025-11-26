@@ -86,5 +86,8 @@ Environmental Variable:
 -----------------------
     what is environment variables:
     ------------------------------
+    
     An environment variable is a dynamic-named value that can affect the way running processes will behave on a cpomputer. They are part of the environment in which ta process runs.
+
+    --> In Simple words, set of defined rules and values to build an environment.
 
