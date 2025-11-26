@@ -1,3 +1,4 @@
+
 at command:
 -----------
     at command is like crontab which allows you to schedule jobs buts only once.
@@ -113,3 +114,6 @@ The Screen Command:
     * To split the screen into two parts:
         . alt+a
           shift+|
+    * To Split half into first first part
+        . alt+a
+          shift+s
