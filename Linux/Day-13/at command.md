@@ -81,3 +81,10 @@ Terminal Control Keys:
         * CTRL -c  --> stop/kill a command.
         * CTRL -z  --> Suspend a command.
         * CTRL -d  --> exit from interactive program (signals end of data).
+
+Environmental Variable:
+-----------------------
+what is environment variables:
+------------------------------
+    An environment variable is a dynamic-named value that can affect the way running processes will behave on a cpomputer. They are part of the environment in which ta process runs.
+
