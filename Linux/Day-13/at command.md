@@ -84,7 +84,7 @@ Terminal Control Keys:
 
 Environmental Variable:
 -----------------------
-what is environment variables:
-------------------------------
+    what is environment variables:
+    ------------------------------
     An environment variable is a dynamic-named value that can affect the way running processes will behave on a cpomputer. They are part of the environment in which ta process runs.
 
