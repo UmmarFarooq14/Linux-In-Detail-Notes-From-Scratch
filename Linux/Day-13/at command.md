@@ -96,5 +96,9 @@ Environmental Variable:
 
     * To view one environment varibales
         . echo $SHELL
+
+    * To set the environment variables:
+        . export Tes = 1
+        . echo $Test
   
     
