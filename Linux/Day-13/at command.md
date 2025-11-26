@@ -91,3 +91,6 @@ Environmental Variable:
 
     --> In Simple words, set of defined rules and values to build an environment.
 
+    * To View all environment variables:
+        . printenv (or) env
+  
