@@ -100,5 +100,11 @@ Environmental Variable:
     * To set the environment variables:
         . export Tes = 1
         . echo $Test
+
+    * To set environment variable permanently:
+
+        . vi .bashrc
+        . Test = '123'
+        . export Test
   
     
