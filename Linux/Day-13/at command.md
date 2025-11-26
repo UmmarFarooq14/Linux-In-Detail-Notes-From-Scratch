@@ -93,4 +93,8 @@ Environmental Variable:
 
     * To View all environment variables:
         . printenv (or) env
+
+    * To view one environment varibales
+        . echo $SHELL
   
+    
