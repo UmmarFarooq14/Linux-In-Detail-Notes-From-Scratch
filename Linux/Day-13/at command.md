@@ -114,6 +114,9 @@ The Screen Command:
     * To split the screen into two parts:
         . alt+a
           shift+|
-    * To Split half into first first part
+    * To Split half into first first part:
         . alt+a
           shift+s
+    * To move cursor from first half to second half:
+        . alt +a
+          tab
