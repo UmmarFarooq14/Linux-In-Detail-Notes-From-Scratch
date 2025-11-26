@@ -123,3 +123,5 @@ The Screen Command:
     * To get terminal & IP address:
         . alt+a
           c
+    * screen -r ---> to display the how many screens.
+    
