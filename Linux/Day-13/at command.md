@@ -134,3 +134,4 @@ Aliases:
        * alias tell="whoami; hostname; pwd"
        * alias dir="ls -l | grep ^d"
        * alias lmar="la -l | gerp mar"
+       * alias wpa="chmod a+w"
