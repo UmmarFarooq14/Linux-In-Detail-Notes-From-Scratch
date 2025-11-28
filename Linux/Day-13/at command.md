@@ -131,3 +131,4 @@ Aliases:
     Ex:-
        * alias ls="ls -la"
        * alias pl="pwd; ls"
+       * alias tell="whoami; hostname; pwd"
