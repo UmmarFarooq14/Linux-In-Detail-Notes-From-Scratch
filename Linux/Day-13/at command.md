@@ -139,5 +139,5 @@ Aliases:
 
 Creating User (or) Global aliases:
 ----------------------------------
-    User = Applies only to a specific user profile.
+  -->  User = Applies only to a specific user profile.
     
