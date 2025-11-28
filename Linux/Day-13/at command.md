@@ -132,3 +132,4 @@ Aliases:
        * alias ls="ls -la"
        * alias pl="pwd; ls"
        * alias tell="whoami; hostname; pwd"
+       * alias dir="ls -l | grep ^d"
