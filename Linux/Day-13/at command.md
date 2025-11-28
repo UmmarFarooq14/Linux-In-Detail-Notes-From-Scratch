@@ -135,3 +135,4 @@ Aliases:
        * alias dir="ls -l | grep ^d"
        * alias lmar="la -l | gerp mar"
        * alias wpa="chmod a+w"
+       * alias d="df -h | awk '{ print \$6 }' | cut -cl -u"
