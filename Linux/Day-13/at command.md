@@ -143,3 +143,4 @@ Creating User (or) Global aliases:
       --> Global = Applies to everyone who has account on the system.
       
           ==> User = /home/user/.bashrc
+          ==> Global = /etc/bashrc
