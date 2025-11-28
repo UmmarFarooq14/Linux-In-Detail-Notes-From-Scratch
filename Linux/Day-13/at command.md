@@ -133,3 +133,4 @@ Aliases:
        * alias pl="pwd; ls"
        * alias tell="whoami; hostname; pwd"
        * alias dir="ls -l | grep ^d"
+       * alias lmar="la -l | gerp mar"
