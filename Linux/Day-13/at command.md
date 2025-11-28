@@ -144,3 +144,4 @@ Creating User (or) Global aliases:
       
           ==> User = /home/user/.bashrc
           ==> Global = /etc/bashrc
+              ==> alias hh = "hostname"
