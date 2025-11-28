@@ -136,3 +136,6 @@ Aliases:
        * alias lmar="la -l | gerp mar"
        * alias wpa="chmod a+w"
        * alias d="df -h | awk '{ print \$6 }' | cut -cl -u"
+
+Creating User (or) Global aliases:
+----------------------------------
