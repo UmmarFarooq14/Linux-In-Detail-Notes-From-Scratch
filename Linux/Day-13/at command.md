@@ -127,4 +127,4 @@ The Screen Command:
 
 Aliases:
 -------
-Aliases is a popular command that is used to cut down on lengthy & repetitive commands.
+    Aliases is a popular command that is used to cut down on lengthy & repetitive commands.
