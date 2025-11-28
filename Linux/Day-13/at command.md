@@ -124,4 +124,6 @@ The Screen Command:
         . alt+a
           c
     * screen -r ---> to display the how many screens.
-    
+
+Aliases:
+-------
