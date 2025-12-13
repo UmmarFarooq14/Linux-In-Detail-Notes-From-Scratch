@@ -23,7 +23,7 @@ If I want to see the live crontab generate result:-
 
     watch cat filename
 
-Tee Command:
+Tee Command:-
 ------------
     Tee command is used to store and view (both at the same time) the output of any command.
     
