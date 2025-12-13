@@ -5,7 +5,7 @@ Command:-
     hostname -i
     hostname -I
 
-To Display only IP Address:
+To Display only IP Address:-
 ---------------------------
     if config
         
