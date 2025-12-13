@@ -1,6 +1,6 @@
 To Display Hostname with Ip Address:-
 ------------------------------------
-Command:
+Command:-
 --------
     hostname -i
     hostname -I
