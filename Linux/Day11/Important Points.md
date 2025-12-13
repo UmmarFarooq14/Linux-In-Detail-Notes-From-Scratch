@@ -46,10 +46,10 @@ Pipes:
     
     command [argument1] | command2 [argument2]
     
-Execution of multiple commands:
+Execution of multiple commands:-
 -------------------------------
     Execution of multiple commands in a single line using semi-colon (;) 
-commands:
+commands:-
 ---------
     echo "Hello" ; echo "World"
     mkdir test_dir; cd test_dir; touch "test file.txt"
