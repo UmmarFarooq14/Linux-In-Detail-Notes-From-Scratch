@@ -54,7 +54,7 @@ commands:-
     echo "Hello" ; echo "World"
     mkdir test_dir; cd test_dir; touch "test file.txt"
 
-Trunacate file size:
+Trunacate file size:-
 --------------------
 
     The Linux truncate command is often used to shrink or extend the size of a file to a specified size.
