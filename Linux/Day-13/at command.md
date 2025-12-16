@@ -151,4 +151,4 @@ To Display the Image:
 
     . Become root.
     . Yum install ImageMagick -y
-. display image -file
+    . display image -file
