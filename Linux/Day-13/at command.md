@@ -149,6 +149,6 @@ Creating User (or) Global aliases:
 To Display the Image:
 --------------------
 
-. Become root.
+    . Become root.
 . Yum install ImageMagick -y
 . display image -file
