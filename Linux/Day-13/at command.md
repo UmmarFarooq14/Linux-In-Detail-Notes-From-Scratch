@@ -146,7 +146,7 @@ Creating User (or) Global aliases:
           ==> Global = /etc/bashrc
               ==> alias hh = "hostname"
 
-To Display the Image:
+To Display the Image:-
 --------------------
 
     . Become root.
