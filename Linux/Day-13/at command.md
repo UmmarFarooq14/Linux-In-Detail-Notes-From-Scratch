@@ -148,3 +148,5 @@ Creating User (or) Global aliases:
 
 To Display the Image:
 --------------------
+
+. Become root.
