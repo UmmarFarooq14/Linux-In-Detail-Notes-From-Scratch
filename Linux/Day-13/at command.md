@@ -158,5 +158,5 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
 -----------------------------------------
 Port:
 ----
-DHCP {server} = 67
-DHCP {Client} = 68
+    DHCP {server} = 67
+    DHCP {Client} = 68
