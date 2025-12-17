@@ -170,6 +170,8 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     Steps by step Instruction:-
     --------------------------
     -> Pick a server to be your DHCP and take a snapshot.
+    -> Assign z static IP to the DHCP server.
+    
     
 
     
