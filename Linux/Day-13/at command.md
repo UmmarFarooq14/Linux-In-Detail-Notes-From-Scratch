@@ -172,7 +172,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     -> Pick a server to be your DHCP and take a snapshot.
     -> Assign z static IP to the DHCP server.
         -> vi /etc/sysconfig/network/enp0s3.
-    -> simply run nmtui command to use GUI based network tool.
+        -> simply run nmtui command to use GUI based network tool.
     
     
     
