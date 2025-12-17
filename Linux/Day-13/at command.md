@@ -163,4 +163,9 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
 
     => In order to communicate over the network, a computer needs to have an IP address.
     => DHCP server is responsible to automatically assign IP address to servers desktops, and other devices on the network.
+
+    . How Ips are assigned in corporate world?
+    => Dedicated routers run DHCP service to assign Tps on the network.
+
+    
     
