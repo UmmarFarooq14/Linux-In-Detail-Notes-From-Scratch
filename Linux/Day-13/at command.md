@@ -160,3 +160,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     ----
     DHCP {server} = 67
     DHCP {Client} = 68
+
+    => In order to communicate over the network, a computer needs to have an IP address.
+    => DHCP server is responsible to automatically assign IP address to servers desktops, and other devices on the network.
+    
