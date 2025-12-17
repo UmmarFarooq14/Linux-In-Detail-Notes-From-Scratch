@@ -152,3 +152,7 @@ To Display the Image:-
     . Become root.
     . Yum install ImageMagick -y
     . display image -file.
+
+
+Dynamic Host COnfiguration Protocal{DHCP}:-
+-----------------------------------------
