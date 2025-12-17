@@ -156,3 +156,7 @@ To Display the Image:-
 
 Dynamic Host COnfiguration Protocal{DHCP}:-
 -----------------------------------------
+Port:
+----
+DHCP {server} = 67
+DHCP {Client} = 68
