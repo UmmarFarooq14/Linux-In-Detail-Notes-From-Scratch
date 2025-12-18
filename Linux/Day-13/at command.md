@@ -187,7 +187,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
      -----------------
          2 --> Multi-user mode without Networking.
          3 --> Multi-user mode with Networking.
-     5 --> Multi-user mode with Networking and GUI.
+         5 --> Multi-user mode with Networking and GUI.
      
 
     
