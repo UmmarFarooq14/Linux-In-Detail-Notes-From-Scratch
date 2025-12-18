@@ -175,7 +175,10 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
         -> simply run nmtui command to use GUI based network tool.
     
     
-    
+ System Run Levels:-
+ -------------------
+ Main Run Level:
+ ---------------
 
     
     
