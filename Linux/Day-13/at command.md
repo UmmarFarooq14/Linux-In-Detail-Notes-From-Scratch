@@ -186,7 +186,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
      Other run levels:
      -----------------
          2 --> Multi-user mode without Networking.
-     3 --> Multi-user mode with Networking.
+         3 --> Multi-user mode with Networking.
      5 --> Multi-user mode with Networking and GUI.
      
 
