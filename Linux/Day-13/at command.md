@@ -177,8 +177,10 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     
  System Run Levels:-
  -------------------
- Main Run Level:
- ---------------
+     Main Run Level:
+     ---------------
+     0 --> shut down (or) halt of the system.
+     1
 
     
     
