@@ -181,7 +181,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
      ---------------
          0 --> shut down (or) halt of the system.
          1 --> Single-user mode, usually aliased as s/S.
-     6 --> Reboot the system.
+         6 --> Reboot the system.
 
      Other run levels:
      -----------------
