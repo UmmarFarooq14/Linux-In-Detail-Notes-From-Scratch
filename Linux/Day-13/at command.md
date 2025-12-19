@@ -203,8 +203,8 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
 Disk Partiiton:
 ---------------
 Commands for disk partiton:
-
-
+    . df
+    . fdisk
     
     
     
