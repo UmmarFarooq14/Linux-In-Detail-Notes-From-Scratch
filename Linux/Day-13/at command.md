@@ -192,8 +192,8 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
 
  Linux Boot Process:
  -------------------
-    BIOS --> Basic I/p O/P system executes MBR.
-    MBR --> Master Boot Record executes GRUB.
+    BIOS --> Basic I/p O/P system Executes MBR.
+    MBR --> Master Boot Record Executes GRUB.
     GRUB --> Grand Unified BootLoader execute Kernel.
     Kernel --> Kernel executes /sbin/init.
     Init --> Init executes the runlevel Programming.
