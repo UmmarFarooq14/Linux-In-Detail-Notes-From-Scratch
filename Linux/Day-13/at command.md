@@ -197,7 +197,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     GRUB --> Grand Unified BootLoader Execute Kernel.
     Kernel --> Kernel Executes /sbin/init.
     Init --> Init Executes the runlevel Programming.
-    RunLevel --> RunLevel Programs are executed.
+    RunLevel --> RunLevel Programs are Executed.
     
     
     
