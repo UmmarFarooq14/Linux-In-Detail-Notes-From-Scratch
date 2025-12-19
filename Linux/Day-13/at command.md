@@ -196,7 +196,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     MBR --> Master Boot Record Executes GRUB.
     GRUB --> Grand Unified BootLoader execute Kernel.
     Kernel --> Kernel executes /sbin/init.
-    Init --> Init executes the runlevel Programming.
+    Init --> Init Executes the runlevel Programming.
     RunLevel --> RunLevel Programs are executed.
     
     
