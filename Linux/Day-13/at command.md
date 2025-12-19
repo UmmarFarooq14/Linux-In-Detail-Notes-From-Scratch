@@ -198,7 +198,12 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     Kernel --> Kernel Executes /sbin/init.
     Init --> Init Executes the runlevel Programming.
     RunLevel --> RunLevel Programs are Executed.
-    
+
+
+Disk Partiiton:
+---------------
+
+
     
     
     
