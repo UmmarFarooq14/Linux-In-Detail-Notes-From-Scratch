@@ -192,5 +192,6 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
 
  Linux Boot Process:
  -------------------
-     BIOS
+    BIOS-> Basic I/p O/P system executes MBE.
+    
     
