@@ -192,5 +192,5 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
 
  Linux Boot Process:
  -------------------
- 
+     BIOS
     
