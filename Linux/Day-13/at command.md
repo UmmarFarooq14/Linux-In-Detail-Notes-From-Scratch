@@ -190,5 +190,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
          5 --> Multi-user mode with Networking and GUI.
      
 
-    
+ Linux Boot Process:
+ -------------------
+ 
     
