@@ -207,6 +207,8 @@ Disk Partiiton:
         . fdisk
     
 Add Disk & Create LVM Partition:
+--------------------------------
+
 
     
     
