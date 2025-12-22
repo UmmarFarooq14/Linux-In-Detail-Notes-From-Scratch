@@ -213,7 +213,7 @@ Add Disk & Create LVM Partition:
     . Logical Volume
     . Volume Group
     . Physical Group
-. Partitions
+    . Partitions
 . Hard Links
 
 
