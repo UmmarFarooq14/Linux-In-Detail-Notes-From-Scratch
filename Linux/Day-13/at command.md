@@ -210,7 +210,7 @@ Add Disk & Create LVM Partition:
 --------------------------------
 
     . File System 
-. Logical Volume
+    . Logical Volume
 . Volume Group
 . Physical Group
 . Partitions
