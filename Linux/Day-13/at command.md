@@ -214,6 +214,7 @@ Add Disk & Create LVM Partition:
 . Volume Group
 . Physical Group
 . Partitions
+. Hard Links
 
 
 
