@@ -216,6 +216,7 @@ Add Disk & Create LVM Partition:
     . Partitions
     . Hard Links
 
+What is Swap:
 
 
 
