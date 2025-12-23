@@ -218,7 +218,7 @@ Add Disk & Create LVM Partition:
 
 What is Swap:
 -------------
-Swap Space in Linux is used when the amount of physical memory RAM is full.
+Swap Space in Linux is used when the amount of physical memory RAM is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap
 
 
 
