@@ -217,7 +217,8 @@ Add Disk & Create LVM Partition:
     . Hard Links
 
 What is Swap:
-------------
+-------------
+Swap Space in Linux is used when the amount of physical memory RAM is full.
 
 
 
