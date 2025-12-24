@@ -223,7 +223,7 @@ What is Swap:
 
 Network File System{NFS}:
 -------------------------
-NFS stands for Network File System, a file system developed by sun Microsystems Inc.
+    NFS stands for Network File System, a file system developed by sun Microsystems Inc.
 
 
 
