@@ -224,7 +224,7 @@ What is Swap:
 Network File System{NFS}:
 -------------------------
     -> NFS stands for Network File System, a file system developed by sun Microsystems Inc.
-    -> It is a client/server system that allows user to access files across a network and treat them as if they
+    -> It is a client/server system that allows user to access files across a network and treat them as if they resided in a local file directory.
 
 
 
