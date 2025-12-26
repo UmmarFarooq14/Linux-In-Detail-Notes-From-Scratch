@@ -232,6 +232,7 @@ Samba {136, 137, 138, 445}:
 ---------------------------
     -> Samba is a linux tool (or) utility that allows sharing for linux resources such as files and printers to with other operating systems.
     -> It works exactly like NFS but the difference is NFS shares within linux (or) Unix like system whereas Samba with Other OS.
+    Ex:- "A" Shares its filesystem with Computer "B" using samba than computer "B" will see that shared filesystem as if it is mounted as the local system.
 
 
 
