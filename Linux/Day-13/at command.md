@@ -230,7 +230,7 @@ Network File System{NFS}:
 
 Samba {136, 137, 138, 445}:
 ---------------------------
-
+-> Samba is a linux tool (or) utility that allows sharing for linux resources such as files and printers to with other operating systems.
 
 
 
