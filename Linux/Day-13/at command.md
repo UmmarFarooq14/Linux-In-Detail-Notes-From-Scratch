@@ -228,7 +228,7 @@ Network File System{NFS}:
     -> It is a client/server system that allows user to access files across a network and treat them as if they resided in a local file directory.
 
 
-Samba {136, 137, 138, 445}:
+Samba {136, 137, 138, 445}:-
 ---------------------------
     -> Samba is a linux tool (or) utility that allows sharing for linux resources such as files and printers to with other operating systems.
     -> It works exactly like NFS but the difference is NFS shares within linux (or) Unix like system whereas Samba with Other OS.
