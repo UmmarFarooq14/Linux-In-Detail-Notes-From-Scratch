@@ -228,8 +228,9 @@ Network File System{NFS}:
     -> It is a client/server system that allows user to access files across a network and treat them as if they resided in a local file directory.
 
 
-Samba:
------
+Samba {136, 137, 138, 445}:
+---------------------------
+
 
 
 
