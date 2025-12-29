@@ -235,7 +235,8 @@ Samba {136, 137, 138, 445}:-
     Ex:- "A" Shares its filesystem with Computer "B" using samba than computer "B" will see that shared filesystem as if it is mounted as the local system.
 
 
-
+SATA & SAS:
+-----------
 
     
     
