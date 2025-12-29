@@ -237,7 +237,7 @@ Samba {136, 137, 138, 445}:-
 
 SATA & SAS:
 -----------
-    SATA -->
+    SATA --> Serial Advanced Technology Attachment
     
     
     
