@@ -239,7 +239,7 @@ SATA & SAS:
 -----------
     SATA --> Serial Advanced Technology Attachment.
     SAS --> Serial Attachment SCSI { Small Computer System Interface }.
-    Both SAS & SATA utilize serial communication.
+    Both SAS & SATA utilize serial communication. Serial COmmunication means that the higheay has both lanes.
     
     
     
