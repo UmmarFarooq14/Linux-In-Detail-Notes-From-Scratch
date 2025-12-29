@@ -238,7 +238,7 @@ Samba {136, 137, 138, 445}:-
 SATA & SAS:
 -----------
     SATA --> Serial Advanced Technology Attachment.
-    
+    SAS --> Serial Attachment SCSI { Small Computer System Interface }
     
     
     
