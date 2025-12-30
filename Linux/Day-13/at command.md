@@ -13,7 +13,7 @@ Usage:-
     at d                  ---> at daemon/service that manages scheduling.
     systemctl status atd  ---> To manage atd services.
 
-Schedule at :
+Schedule at :-
 ------------
 
     create at entry by scheduling a task:
