@@ -221,7 +221,7 @@ What is Swap:
     Swap Space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the (RAM) is full, inactive pages in memory are moved to the swap space. while swap space can help machines with a small amount of RAM.
 
 
-Network File System{NFS}:
+Network File System{NFS}:-
 -------------------------
     -> NFS stands for Network File System, a file system developed by sun Microsystems Inc.
     -> Port number is 2049.
