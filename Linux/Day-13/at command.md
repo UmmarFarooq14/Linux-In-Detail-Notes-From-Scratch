@@ -56,7 +56,7 @@ Log Monitoring:-
     messages
     httpd
     
-SOS Report:
+SOS Report:-
 -----------
     what is sos report:
      collect and package diagnostic and support data.
