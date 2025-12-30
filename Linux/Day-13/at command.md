@@ -43,7 +43,7 @@ System Monitoring:-
     vmstat
     sar
 
-Log Monitoring:
+Log Monitoring:-
 ---------------
     Another and most important way of system administration is log monitor.
     
