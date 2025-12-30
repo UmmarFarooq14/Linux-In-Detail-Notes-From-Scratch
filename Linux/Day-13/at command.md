@@ -83,7 +83,7 @@ Terminal Control Keys:-
         * CTRL -z  --> Suspend a command.
         * CTRL -d  --> exit from interactive program (signals end of data).
 
-Environmental Variable:
+Environmental Variable:-
 -----------------------
     what is environment variables:
     ------------------------------
