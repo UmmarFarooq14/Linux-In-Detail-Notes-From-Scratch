@@ -108,7 +108,7 @@ Environmental Variable:-
         . Test = '123'
         . export Test
   
-The Screen Command:
+The Screen Command:-
 -------------------
 
     * To split the screen into two parts:
