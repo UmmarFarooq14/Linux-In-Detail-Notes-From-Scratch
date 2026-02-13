@@ -57,3 +57,4 @@ How to Identify SGID:
          The s in the group execute position indicates SGID.
 
 For directories:
+----------------
