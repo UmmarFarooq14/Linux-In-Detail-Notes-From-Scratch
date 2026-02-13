@@ -1,3 +1,4 @@
+
 To display the login history of users with full login and logout date and time information.
 
 Command:
@@ -65,6 +66,7 @@ How to Set SGID:
 Numeric method:
 --------------
         chmod 2755 directory_name
+        
 Symbolic method:
-
-chmod g+s directory_name
+----------------
+        chmod g+s directory_name
