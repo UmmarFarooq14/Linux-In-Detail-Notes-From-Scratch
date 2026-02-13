@@ -62,3 +62,6 @@ Symbolic method:
 
 What is load Average:
 ---------------------
+
+What is Swap Memory:
+--------------------
