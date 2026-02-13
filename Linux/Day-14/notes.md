@@ -22,6 +22,7 @@ What is SUID:
 
 
      If you see:
+     -----------
 
      -rwsr-xr-x
 
