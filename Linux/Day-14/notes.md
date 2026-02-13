@@ -49,4 +49,4 @@ What is SGID:
 
 For directories:
 ----------------
-👉 Files created inside the directory inherit the group ownership of the directory.
+         Files created inside the directory inherit the group ownership of the directory.
