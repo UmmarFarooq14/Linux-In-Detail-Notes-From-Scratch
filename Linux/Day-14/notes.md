@@ -22,8 +22,8 @@ How to Identify SUID:
       ls -l file_name
 
 
-     If you see:
-     -----------
+If you see:
+-----------
 
      -rwsr-xr-x
 
