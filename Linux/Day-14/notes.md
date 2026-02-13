@@ -45,8 +45,7 @@ What is SUID:
 
 What is SGID:
 -------------
-
-  SGID is a special permission that allows a file to be executed with the permissions of the file's group.
+        SGID is a special permission that allows a file to be executed with the permissions of the file's group.
 
 For directories:
 👉 Files created inside the directory inherit the group ownership of the directory.
