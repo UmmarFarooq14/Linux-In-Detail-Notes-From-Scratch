@@ -31,7 +31,6 @@ What is SUID:
 
      How to Set SUID:
      ----------------
-
     Numeric method:
     ---------------
 
