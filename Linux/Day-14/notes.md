@@ -69,4 +69,5 @@ What is Swap Memory:
 What is Absolute path:
 ----------------------
 
-what is 
+what is Relative Path:
+----------------------
