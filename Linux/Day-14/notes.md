@@ -59,3 +59,6 @@ Numeric method:
 Symbolic method:
 ----------------
         chmod g+s directory_name
+
+What is load Average:
+---------------------
