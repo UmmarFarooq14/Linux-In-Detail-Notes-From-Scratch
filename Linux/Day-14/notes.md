@@ -56,7 +56,7 @@ How to Identify SGID:
 ---------------------
         -rwxr-sr-x
          The s in the group execute position indicates SGID.
-
+         
 For directories:
 ----------------
         drwxr-sr-x
