@@ -32,8 +32,8 @@ The s in the user execute position indicates SUID.
 
 How to Set SUID:
 ----------------
-    Numeric method:
-    ---------------
+Numeric method:
+---------------
 
     chmod 4755 file_name
 
