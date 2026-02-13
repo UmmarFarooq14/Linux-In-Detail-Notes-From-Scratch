@@ -1,8 +1,6 @@
-
-To display the login history of users with full login and logout date and time information.
-
 Command:
 -------
+    To display the login history of users with full login and logout date and time information.
     last -F
 
 Sticky Bit:
