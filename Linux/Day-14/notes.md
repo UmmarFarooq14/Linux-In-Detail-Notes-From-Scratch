@@ -59,10 +59,12 @@ How to Identify SGID:
 For directories:
 ----------------
         drwxr-sr-x
-How to Set SGID?
+        
+How to Set SGID:
+----------------
 Numeric method:
-
-chmod 2755 directory_name
+--------------
+        chmod 2755 directory_name
 Symbolic method:
 
 chmod g+s directory_name
