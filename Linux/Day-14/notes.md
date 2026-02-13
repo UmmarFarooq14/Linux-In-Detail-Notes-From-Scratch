@@ -38,6 +38,7 @@ What is SUID:
 
 
     Symbolic method:
+    ----------------
 
     chmod u+s file_name
 
