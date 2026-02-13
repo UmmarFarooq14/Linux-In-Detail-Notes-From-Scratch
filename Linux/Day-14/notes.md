@@ -3,3 +3,6 @@ To display the login history of users with full login and logout date and time i
 Command:
 -------
     last -F
+
+Sticky Bit:
+-----------
