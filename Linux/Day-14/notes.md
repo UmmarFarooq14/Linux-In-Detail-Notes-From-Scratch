@@ -66,5 +66,7 @@ What is load Average:
 What is Swap Memory:
 --------------------
 
-What is absolute path:
+What is Absolute path:
 ----------------------
+
+what is 
