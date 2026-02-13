@@ -30,8 +30,8 @@ If you see:
 
 The s in the user execute position indicates SUID.
 
-     How to Set SUID:
-     ----------------
+How to Set SUID:
+----------------
     Numeric method:
     ---------------
 
