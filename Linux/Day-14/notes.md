@@ -70,7 +70,7 @@ What is Swap Memory:
 
 What is Absolute path:
 ----------------------
-    An absolute path specifies the exact location of a file or directory from the root (/) directory, regardless of the current working directory.
+        An absolute path specifies the exact location of a file or directory from the root (/) directory, regardless of the current working directory.
 
 what is Relative Path:
 ----------------------
