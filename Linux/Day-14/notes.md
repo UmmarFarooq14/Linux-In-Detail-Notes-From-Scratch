@@ -62,6 +62,7 @@ Symbolic method:
 
 What is load Average:
 ---------------------
+        load avg is a metric that shows the avg no.of process in the system run queue over 1, 5 and 15min.
 
 What is Swap Memory:
 --------------------
