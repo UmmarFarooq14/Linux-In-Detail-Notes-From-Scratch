@@ -79,5 +79,5 @@ What is Absolute path:
 
 what is Relative Path:
 ----------------------
-A relative path specifies the location of a file or directory with respect to the current working directory.
+    A relative path specifies the location of a file or directory with respect to the current working directory.
 
