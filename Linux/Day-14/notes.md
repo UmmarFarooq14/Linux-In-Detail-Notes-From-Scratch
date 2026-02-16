@@ -74,7 +74,7 @@ What is Absolute path:
 
         Ex:-
         ----
-        /home/ummar/documents/file.txt
+            /home/ummar/documents/file.txt
 
 
 what is Relative Path:
