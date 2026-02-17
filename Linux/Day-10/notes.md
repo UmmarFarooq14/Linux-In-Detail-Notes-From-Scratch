@@ -2,7 +2,7 @@
  ------------------------
  
 
- | Port Number | Protocol/Service                 | Description                                   |
+ | Port Number | Protocol/Service                 | Description                                 |
  |------------|---------------------------------|-----------------------------------------------|
  | 20         | FTP (Data)                      | File Transfer Protocol (Data Channel)         |
  | 21         | FTP (Control)                   | File Transfer Protocol (Control Channel)      |
