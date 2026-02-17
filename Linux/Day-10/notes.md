@@ -37,7 +37,7 @@
 
 
  VIEW DISK INFORMATION:
- ---------------------
+ ----------------------
 
     lsblk          # Show all block devices
     fdisk -l       # List all partitions
