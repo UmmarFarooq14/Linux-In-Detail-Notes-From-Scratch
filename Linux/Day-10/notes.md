@@ -58,7 +58,7 @@ Steps inside fdisk:-
     +10G -> Size
     w  -> Write changes
 
-FORMAT PARTITION:
+FORMAT PARTITION:-
 -----------------
     mkfs.ext4 /dev/sdb1
 
