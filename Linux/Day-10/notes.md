@@ -50,7 +50,7 @@ CREATE A PARTITION:
 -------------------
     fdisk /dev/sdb        # Create a partition on /dev/sdb
 
-Steps inside fdisk:
+Steps inside fdisk:-
 -------------------
     n  -> New partition
     p  -> Primary partition
