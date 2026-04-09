@@ -24,7 +24,7 @@ If you see:
      -rwsr-xr-x
      The s in the user execute position indicates SUID.
 
-How to Set SUID:
+How to Set SUID
 ----------------
 Numeric method:
 ---------------
