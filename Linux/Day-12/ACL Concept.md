@@ -13,7 +13,7 @@ Commands to assign and  remove ACL Permission are:-
     setfacl
     getfacl
 
-List of commands for setting up ACL:
+List of commands for setting up ACL:-
 ------------------------------------
     1) To add permission for user:
        setfacl -m u:user: rwx /path/to/file
