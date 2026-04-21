@@ -27,7 +27,7 @@ If you see:
 How to Set SUID
 ----------------
 Numeric method:
----------------
+----------------
         chmod 4755 file_name
 
 Symbolic method:
