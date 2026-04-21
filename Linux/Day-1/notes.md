@@ -15,7 +15,6 @@
     - An AWS Account is needed to create instances.
 
 
-
  COMPONENTS OF LINUX:
  --------------------
  
