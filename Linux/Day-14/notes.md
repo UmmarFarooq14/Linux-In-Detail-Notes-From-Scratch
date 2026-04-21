@@ -69,7 +69,7 @@ What is Swap Memory:
 --------------------
         swap memory is a space on the hard disk that is used as virtual memory. when the physical RAM is full. It is as over flow area for RAM.
 
-What is Absolute path:
+What is Absolute path:-
 ----------------------
         An absolute path specifies the exact location of a file or directory from the root (/) directory, regardless of the current working directory.
 
