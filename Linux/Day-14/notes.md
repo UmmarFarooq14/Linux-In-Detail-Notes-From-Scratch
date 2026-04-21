@@ -20,7 +20,7 @@ How to Identify SUID:
       ls -l file_name
 
 If you see:
--------------
+--------------
      -rwsr-xr-x
      The s in the user execute position indicates SUID.
 
