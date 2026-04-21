@@ -11,7 +11,7 @@ Sticky Bit:
     chmod +t directory_name
     chmod 1777 directory_name
 
-What is SUID:
+What is SUID:-
 --------------
       SUID is a special permission that allows a user to execute a file with the permissions of the file owner instead of the user who runs it.
 
