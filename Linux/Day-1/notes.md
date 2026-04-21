@@ -8,7 +8,6 @@
     - Linux is a Case-sensitive Operating System.
 
 
-
  REQUIREMENTS TO LEARN LINUX:
  ----------------------------
     - A good condition laptop with network connectivity.
