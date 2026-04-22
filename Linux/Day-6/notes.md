@@ -75,7 +75,7 @@ GIVE SUDO ACCESS:-
 -----------------
     visudo
     
-Add the user under User Privileges:
+Add the user under User Privileges:-
 ----------------------------------
      username   ALL=(ALL)   ALL
 
