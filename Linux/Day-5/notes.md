@@ -39,7 +39,7 @@ Syntax:-
 
      vi or vim allows creating and editing large files.
 
-Syntax:
+Syntax:-
 --------
     vim filename
 
