@@ -63,7 +63,7 @@ LOCK/UNLOCK USER:-
     usermod -L username   # Lock user
     usermod -U username   # Unlock user
 
-ENABLE SSH LOGIN FOR USER:
+ENABLE SSH LOGIN FOR USER:-
 --------------------------
 
     vim /etc/ssh/sshd_config
