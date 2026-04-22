@@ -24,7 +24,7 @@ VIEW USERS:-
 
     cat /etc/passwd
 
-VIEW PASSWORDS (hashed):
+VIEW PASSWORDS (hashed):-
 ------------------------
 
     cat /etc/shadow
