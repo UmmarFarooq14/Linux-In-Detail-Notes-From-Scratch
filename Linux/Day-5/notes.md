@@ -35,7 +35,7 @@ Syntax:-
 
 
  VI / VIM EDITOR:
-----------------
+-----------------
 
      vi or vim allows creating and editing large files.
 
