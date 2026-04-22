@@ -43,7 +43,7 @@ Syntax:-
 --------
     vim filename
 
-Steps:
+Steps:-
 --------
 
     Open file: vim filename
