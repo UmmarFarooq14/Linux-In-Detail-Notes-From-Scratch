@@ -78,7 +78,7 @@ CREATE DIRECTORIES:-
 TREE COMMAND:-
 -------------
 
-    To see directory structure:
+    To see directory structure:-
    
     yum install tree -y
     tree
