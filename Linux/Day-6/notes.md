@@ -40,7 +40,7 @@ Delete a Group:-
 
     groupdel groupname
 
-View Groups:
+View Groups:-
 ------------
 
     cat /etc/group
