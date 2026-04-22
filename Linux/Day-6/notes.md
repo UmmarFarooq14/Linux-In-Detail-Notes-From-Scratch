@@ -57,7 +57,7 @@ VIEW GROUP PASSWORDS:
 
     cat /etc/gshadow
 
-LOCK/UNLOCK USER:
+LOCK/UNLOCK USER:-
 ----------------
 
     usermod -L username   # Lock user
