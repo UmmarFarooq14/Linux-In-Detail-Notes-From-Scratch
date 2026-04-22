@@ -66,7 +66,7 @@ Useful vi/vim Commands:-
     :%s/old/new   # Replace all
 
 
-CREATE DIRECTORIES
+CREATE DIRECTORIES:-
 -------------------
 
     mkdir dir1              # Create a directory
