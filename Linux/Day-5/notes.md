@@ -52,7 +52,7 @@ Steps:-
     Press Esc to exit INSERT mode.
     Save and exit: :wq!
 
-Useful vi/vim Commands:
+Useful vi/vim Commands:-
 ------------------------
 
     :set num      # Show line numbers
