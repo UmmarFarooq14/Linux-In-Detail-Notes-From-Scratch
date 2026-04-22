@@ -35,7 +35,7 @@ GROUP MANAGEMENT:-
 
     groupadd groupname
 
-Delete a Group:
+Delete a Group:-
 --------------
 
     groupdel groupname
