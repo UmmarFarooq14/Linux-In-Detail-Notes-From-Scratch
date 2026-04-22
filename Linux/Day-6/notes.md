@@ -71,7 +71,7 @@ ENABLE SSH LOGIN FOR USER:-
      Go to line 63, set "PasswordAuthentication yes"
      > :wq!
 
-GIVE SUDO ACCESS:
+GIVE SUDO ACCESS:-
 -----------------
     visudo
     
