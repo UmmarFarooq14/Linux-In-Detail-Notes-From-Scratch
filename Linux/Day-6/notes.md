@@ -45,7 +45,7 @@ View Groups:-
 
     cat /etc/group
 
-ADD/REMOVE USER TO GROUP:
+ADD/REMOVE USER TO GROUP:-
 -------------------------
 
      usermod -aG groupname username   # Add user to group
