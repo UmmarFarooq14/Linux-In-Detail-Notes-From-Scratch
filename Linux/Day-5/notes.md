@@ -75,7 +75,7 @@ CREATE DIRECTORIES:-
     ls -lrth dir1/          # Show contents
 
 
-TREE COMMAND:
+TREE COMMAND:-
 -------------
 
     To see directory structure:
