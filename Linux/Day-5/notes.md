@@ -12,7 +12,7 @@
 
         Create files quickly without opening an editor.
 
-Syntax:
+Syntax:-
 -------
 
      touch filename                   # Create a single file
