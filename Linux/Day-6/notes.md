@@ -30,7 +30,7 @@ VIEW PASSWORDS (hashed):-
     cat /etc/shadow
     
 
-GROUP MANAGEMENT:
+GROUP MANAGEMENT:-
 ----------------
 
     groupadd groupname
