@@ -26,7 +26,7 @@ Syntax:-
    
    
 Syntax:
-------
+-------
      cat > filename1               # Insert single-line data
      cat >> filename1              # Insert multiple lines
      cat filename1                 # View content
