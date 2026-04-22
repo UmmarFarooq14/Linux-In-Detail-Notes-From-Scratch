@@ -10,7 +10,7 @@ USER & GROUP MANAGEMENT:-
         passwd username              # Set password for a user
 
 
-Example:
+Example:-
 --------
         useradd -c "software" suresh
 
