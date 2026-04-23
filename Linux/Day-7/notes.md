@@ -17,7 +17,7 @@
 
 2. Stopping Process:-
    -----------------
-        Temporarily stopped by a signal. 
+        Temporarily stopped by a signal.
         Example: `Ctrl + Z` pauses a process.
 
 3. Sleeping Process:-
