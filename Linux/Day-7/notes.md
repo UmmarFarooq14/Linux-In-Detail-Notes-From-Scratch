@@ -71,7 +71,7 @@ Difference Between yum & rpm:-
     | Data Rollback       | Supports rollback           | No rollback support         |
     | Update Support      | Supports package updates    | Limited                     |
 
-Difference Between Hard Link & Soft Link:
+Difference Between Hard Link & Soft Link:-
 -----------------------------------------
 
      | Hard Link                              | Soft Link                          |
