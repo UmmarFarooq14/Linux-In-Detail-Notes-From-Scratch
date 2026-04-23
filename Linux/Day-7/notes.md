@@ -6,7 +6,7 @@
       - PID – Process ID  
       - PPID – Parent Process ID  
 
- TYPES OF PROCESSES:
+ TYPES OF PROCESSES:-
  -------------------
  
 1. Running Process
