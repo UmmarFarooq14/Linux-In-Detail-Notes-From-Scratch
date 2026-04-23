@@ -9,7 +9,7 @@
  TYPES OF PROCESSES:-
  -------------------
  
-1. Running Process:
+1. Running Process:-
    ----------------
    
         Actively executing on the CPU.  
