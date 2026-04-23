@@ -25,7 +25,7 @@
        Not running, waiting for a resource or event.  
        Example: Waiting for user or file input.
 
-4. Waiting Process:
+4. Waiting Process:-
    ----------------
        Waiting for a resource or event to continue.
 
