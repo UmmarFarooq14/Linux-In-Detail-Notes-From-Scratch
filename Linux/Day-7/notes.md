@@ -12,7 +12,7 @@
 1. Running Process:-
    ----------------
    
-        Actively executing on the CPU.  
+        Actively executing on the CPU.
         Example: When you run `top`, it’s running as long as it’s on CPU.
 
 2. Stopping Process:-
