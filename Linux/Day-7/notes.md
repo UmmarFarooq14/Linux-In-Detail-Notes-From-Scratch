@@ -61,8 +61,8 @@ PACKAGE MANAGEMENT:-
     | Arch Linux         | -              | `pacman`            |
     | SUSE               | `.rpm`         | `zypper`            |
 
-Difference Between yum & rpm:
-----------------------------
+Difference Between yum & rpm:-
+-----------------------------
     | Feature             | yum                         | rpm                         |
     | ------------------- | --------------------------- | --------------------------- |
     | Full Form           | Yellowdog Updater Modified  | Red Hat Package Manager     |
