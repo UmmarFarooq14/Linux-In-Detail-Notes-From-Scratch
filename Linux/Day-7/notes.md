@@ -39,7 +39,7 @@
 
 
 
- PROCESS COMMANDS:
+ PROCESS COMMANDS:-
  -----------------
      -- ps            # Show snapshot of current processes
      -- ps -ef        # Full-format listing with parent-child relation
