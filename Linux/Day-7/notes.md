@@ -45,7 +45,7 @@
      -- ps -ef        # Full-format listing with parent-child relation
      -- ps -aux       # Show all processes including daemons
 
-KILL A PROCESS:
+KILL A PROCESS:-
 ---------------
     -- kill -9 <PID>
     -- Use ps -ef or top to find the PID of the process to kill.
