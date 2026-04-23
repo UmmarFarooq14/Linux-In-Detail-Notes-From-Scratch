@@ -50,7 +50,7 @@ KILL A PROCESS:-
     -- kill -9 <PID>
     -- Use ps -ef or top to find the PID of the process to kill.
 
-PACKAGE MANAGEMENT:
+PACKAGE MANAGEMENT:-
 -------------------
     -- Package management refers to installing, upgrading, configuring, and removing software.
 
