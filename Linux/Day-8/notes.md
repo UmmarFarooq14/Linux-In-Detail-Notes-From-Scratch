@@ -17,7 +17,7 @@ Calculation:-
      -- For Directories: 0777 - 0022 = 0755
      -- For Files: 0666 - 0022 = 0644
 
- PERMISSION TYPES:
+ PERMISSION TYPES:-
  -----------------
 
     | Permission | Symbol | Value |
