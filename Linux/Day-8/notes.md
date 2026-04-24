@@ -49,7 +49,6 @@ CHANGE OWNERSHIP:
      -- chown root file.txt          # Change owner
      -- chown user:group file.txt    # Change owner and group
 
-
 CRON JOBS & SCHEDULING:
 -----------------------
 
