@@ -13,7 +13,7 @@
       | Microkernel        | Minimal services in kernel space; rest in user space    |
       | Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    
 
- MAIN RESPONSIBILITIES:
+ MAIN RESPONSIBILITIES:-
  ----------------------
 
     | Function                | Description                                         |
