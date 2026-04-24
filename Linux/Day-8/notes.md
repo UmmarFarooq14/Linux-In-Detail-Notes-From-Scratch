@@ -3,7 +3,7 @@
 
 
 UMASK (User Mask):
------------------
+------------------
 
         - umask sets default permissions for new files and directories.
         - Default umask: `0022`
