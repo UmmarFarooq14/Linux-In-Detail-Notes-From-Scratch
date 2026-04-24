@@ -11,7 +11,7 @@ UMASK (User Mask):-
           - Directories: `755` (rwxr-xr-x)  
           - Files: `644` (rw-r--r--)  
 
-Calculation:
+Calculation:-
 ------------
 
      -- For Directories: 0777 - 0022 = 0755
