@@ -65,7 +65,7 @@ CRON JOB FORMAT:-
       │ └──────── Hour (0-23)
       └────────── Minute (0-59)
 
-MANAGING CRON JOBS:
+MANAGING CRON JOBS:-
 -------------------
 
     -- sudo yum install cronie       # Install cron service
