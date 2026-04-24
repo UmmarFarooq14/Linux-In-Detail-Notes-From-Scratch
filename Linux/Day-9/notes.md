@@ -4,8 +4,6 @@
         -- The Linux Kernel is the core component of the Linux operating system.  
         -- It acts as a bridge between hardware and software, managing system resources and services.
 
-
-
  TYPES OF KERNELS:
  -----------------
 
