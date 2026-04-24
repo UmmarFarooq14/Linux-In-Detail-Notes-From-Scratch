@@ -54,7 +54,7 @@ CRON JOBS & SCHEDULING:-
 
     -- cron is used to schedule scripts or commands to run at specific times.
 
-CRON JOB FORMAT:
+CRON JOB FORMAT:-
 ----------------
 
       * * * * * /path/to/command
