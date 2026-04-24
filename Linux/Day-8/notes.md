@@ -2,7 +2,7 @@
  -----------------------
 
 
-UMASK (User Mask):
+UMASK (User Mask):-
 ------------------
 
         - umask sets default permissions for new files and directories.
