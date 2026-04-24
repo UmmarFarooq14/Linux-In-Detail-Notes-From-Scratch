@@ -28,7 +28,7 @@ Calculation:-
 
 
  USER TYPES:
- ----------
+ -----------
 
     | Symbol | User Type |
     |--------|-----------|
