@@ -49,7 +49,7 @@ CHANGE OWNERSHIP:-
      -- chown root file.txt          # Change owner
      -- chown user:group file.txt    # Change owner and group
 
-CRON JOBS & SCHEDULING:
+CRON JOBS & SCHEDULING:-
 -----------------------
 
     -- cron is used to schedule scripts or commands to run at specific times.
