@@ -73,7 +73,7 @@ MANAGING CRON JOBS:-
     -- crontab -e                    # Edit cron jobs
     -- crontab -r                    # Remove cron jobs
 
-SPECIAL STRINGS:
+SPECIAL STRINGS:-
 -----------------
 
      | String   | Meaning               |
