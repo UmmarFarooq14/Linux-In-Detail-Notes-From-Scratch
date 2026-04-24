@@ -25,9 +25,7 @@
     | Networking              | Enable communication between systems               |
     | Security                | Manage permissions, system calls, SELinux          |
 
-
-
- KERNEL COMPONENTS:
+ KERNEL COMPONENTS:-
  ------------------
 
      1. **Process Scheduler** – Controls execution of processes  
