@@ -27,7 +27,7 @@ Calculation:-
     | Execute    | x      | 1     |
 
 
- USER TYPES:
+ USER TYPES:-
  -----------
 
     | Symbol | User Type |
