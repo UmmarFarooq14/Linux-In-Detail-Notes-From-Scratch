@@ -43,7 +43,7 @@
 
 
 
- TYPES OF BACKUPS:
+ TYPES OF BACKUPS:-
  -----------------
 
      | Type                | Description                                                    |
