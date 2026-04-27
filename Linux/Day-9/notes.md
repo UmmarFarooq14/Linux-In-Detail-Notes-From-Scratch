@@ -93,7 +93,7 @@ Restore using tar:-
 
     -- tar -xvpzf /backup/home_backup.tar.gz -C /
 
-Restore using rsync:
+Restore using rsync:-
 --------------------
 
     -- rsync -avh /backup/home/ /home/
