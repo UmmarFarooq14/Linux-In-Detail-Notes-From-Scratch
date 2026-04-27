@@ -32,7 +32,7 @@
  ----------------
     Disk management includes partitioning, mounting, checking disk usage, and managing storage.
 
- VIEW DISK INFORMATION:
+ VIEW DISK INFORMATION:-
  ----------------------
 
     lsblk          # Show all block devices
