@@ -98,7 +98,7 @@ Restore using rsync:-
 
     -- rsync -avh /backup/home/ /home/
 
-BACKUP BEST PRACTICES:
+BACKUP BEST PRACTICES:-
 ----------------------
 
     -- Use incremental/differential backups to save space.
