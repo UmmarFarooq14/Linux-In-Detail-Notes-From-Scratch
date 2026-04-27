@@ -33,7 +33,6 @@
 
     Disk management includes partitioning, mounting, checking disk usage, and managing storage.
 
-
  VIEW DISK INFORMATION:
  ----------------------
 
