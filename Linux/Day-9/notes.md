@@ -42,7 +42,6 @@
     -- hardware failure, human error, malware, or accidental deletion.
 
 
-
  TYPES OF BACKUPS:-
  -----------------
 
