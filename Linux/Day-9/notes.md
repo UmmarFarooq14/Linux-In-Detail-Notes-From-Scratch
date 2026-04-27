@@ -88,8 +88,8 @@ Remote Backup via scp:-
 
 RECOVERY EXAMPLES:-
 -------------------
-Restore using tar:
------------------
+Restore using tar:-
+------------------
 
     -- tar -xvpzf /backup/home_backup.tar.gz -C /
 
