@@ -51,7 +51,7 @@
      | Differential Backup | Backs up changes since last full backup.                       |
      | Remote Backup       | Backup to remote server/cloud (e.g., rsync, scp).              |
 
- COMMON BACKUP TOOLS:
+ COMMON BACKUP TOOLS:-
  --------------------
 
     | Tool         | Use Case                 | Description                                |
