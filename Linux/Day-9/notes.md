@@ -69,7 +69,7 @@
  BACKUP EXAMPLES:-
  ----------------
 
- Using `tar`:
+ Using `tar`:-
  ------------
  
      -- tar -cvpzf /backup/home_backup.tar.gz /home
