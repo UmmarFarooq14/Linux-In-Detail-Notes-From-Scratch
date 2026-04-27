@@ -28,7 +28,7 @@
  | 9000       | SonarQube, PhpMyAdmin (custom)  | Web-based services                            |
  ------------------------------------------------------------------------------------------------
 
- DISK MANAGEMENT:
+ DISK MANAGEMENT:-
  ----------------
     Disk management includes partitioning, mounting, checking disk usage, and managing storage.
 
