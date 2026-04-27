@@ -71,7 +71,7 @@ Edit /etc/fstab:-
 ----------------
     /dev/sdb1   /mnt/data   ext4   defaults   0   0
 
-SWAP MANAGEMENT:
+SWAP MANAGEMENT:-
 ----------------
 
     mkswap /dev/sdb2   # Create swap area
