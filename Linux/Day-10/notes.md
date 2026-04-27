@@ -42,7 +42,7 @@
     du -sh *       # Check directory/file sizes
     mount          # List mounted filesystems
 
-CREATE A PARTITION:
+CREATE A PARTITION:-
 -------------------
     fdisk /dev/sdb        # Create a partition on /dev/sdb
 
