@@ -67,7 +67,6 @@
     | Bacula, Amanda, BackupPC | Enterprise backup software | Advanced solutions |
 
 
-
  BACKUP EXAMPLES:
  ----------------
 
