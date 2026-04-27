@@ -58,7 +58,7 @@ FORMAT PARTITION:-
 -----------------
     mkfs.ext4 /dev/sdb1
 
-MOUNT A PARTITION:
+MOUNT A PARTITION:-
 ------------------
 
     mkdir /mnt/data
