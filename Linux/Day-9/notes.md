@@ -66,7 +66,6 @@
     | Timeshift   | System restore          | Desktop backup utility                    |
     | Bacula, Amanda, BackupPC | Enterprise backup software | Advanced solutions |
 
-
  BACKUP EXAMPLES:
  ----------------
 
