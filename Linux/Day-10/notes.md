@@ -78,8 +78,3 @@ SWAP MANAGEMENT:-
     swapon /dev/sdb2   # Enable swap
     swapoff /dev/sdb2  # Disable swap
     free -m            # Check swap usage
-
-
-
-
-
