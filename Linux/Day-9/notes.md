@@ -81,7 +81,7 @@ Using rsync:-
       rsync -avh /home/ /backup/home/
       -- a=archive, v=verbose, h=human-readable
 
-Remote Backup via scp:
+Remote Backup via scp:-
 ---------------------
 
      -- scp -r /var/log user@192.168.1.10:/backup/logs/
