@@ -136,7 +136,7 @@ Aliases:-
        * alias wpa="chmod a+w"
        * alias d="df -h | awk '{ print \$6 }' | cut -cl -u"
 
-Creating User (or) Global aliases:
+Creating User (or) Global aliases:-
 ----------------------------------
       -->  User = Applies only to a specific user profile.
       --> Global = Applies to everyone who has account on the system.
