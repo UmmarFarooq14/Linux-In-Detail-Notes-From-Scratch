@@ -29,7 +29,7 @@ command:-
 --------
     echo "enter the content" | tee filename
     
-Scenario:
+Scenario:-
 ---------
     If we want to append multiple lines into the file using a tee command the we use command
     
