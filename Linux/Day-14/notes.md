@@ -85,4 +85,3 @@ what is Relative Path:-
        Ex:-
        ---
            /home/ummar
-
