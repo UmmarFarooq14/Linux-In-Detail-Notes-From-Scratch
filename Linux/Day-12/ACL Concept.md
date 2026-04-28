@@ -9,7 +9,7 @@ USE:-
     Basically, ACLs are used to make a flexible permission mechanism in linux.
 
 Commands to assign and  remove ACL Permission are:-
---------------------------------------------------
+---------------------------------------------------
     setfacl
     getfacl
 
