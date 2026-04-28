@@ -124,8 +124,8 @@ The Screen Command:-
           c
     * screen -r ---> to display the how many screens.
 
-Aliases:
--------
+Aliases:-
+--------
     Aliases is a popular command that is used to cut down on lengthy & repetitive commands.
     Ex:-
        * alias ls="ls -la"
