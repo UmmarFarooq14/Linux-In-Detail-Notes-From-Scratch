@@ -37,7 +37,7 @@ Scenario:-
     --------
     echo "enter the content" | tee -a filename
     
-Pipes:
+Pipes:-
 ------
     Pipes is used by the shell to connect the output of one command dircetly to the input of the another command.
     The symbol for a pipe is the vertical bar (|). The command syntax is:
