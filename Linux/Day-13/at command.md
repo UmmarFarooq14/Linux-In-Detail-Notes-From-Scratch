@@ -204,7 +204,7 @@ Disk Partiiton:-
         . df
         . fdisk
     
-Add Disk & Create LVM Partition:
+Add Disk & Create LVM Partition:-
 --------------------------------
 
     . File System 
