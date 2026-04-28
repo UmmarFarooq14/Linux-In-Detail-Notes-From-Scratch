@@ -198,7 +198,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
     RunLevel --> RunLevel Programs are Executed.
 
 
-Disk Partiiton:
+Disk Partiiton:-
 ---------------
     Commands for disk partiton:
         . df
