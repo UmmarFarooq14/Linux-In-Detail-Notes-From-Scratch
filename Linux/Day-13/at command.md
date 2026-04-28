@@ -189,7 +189,7 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
          5 --> Multi-user mode with Networking and GUI.
      
 
- Linux Boot Process:
+ Linux Boot Process:-
  -------------------
     BIOS --> Basic I/p O/P system Executes MBR.
     MBR --> Master Boot Record Executes GRUB.
