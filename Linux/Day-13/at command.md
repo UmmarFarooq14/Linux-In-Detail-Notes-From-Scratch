@@ -152,7 +152,6 @@ To Display the Image:-
     . Yum install ImageMagick -y
     . display image -file.
 
-
 Dynamic Host COnfiguration Protocal{DHCP}:-
 -----------------------------------------
     Port:
