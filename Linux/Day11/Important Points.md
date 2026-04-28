@@ -25,7 +25,7 @@ Tee Command:-
 ------------
     Tee command is used to store and view (both at the same time) the output of any command.
     
-command:
+command:-
 --------
     echo "enter the content" | tee filename
     
