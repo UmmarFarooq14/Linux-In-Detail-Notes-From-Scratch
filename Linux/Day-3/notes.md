@@ -37,7 +37,6 @@ Key Points About `/` (Root Directory):-
 | `/var`    | Variable data like logs, mail, spool files |
 
 ---
-
  BASIC LINUX COMMANDS:-
  ---------------------
 
