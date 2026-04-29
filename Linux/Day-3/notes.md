@@ -13,7 +13,6 @@ Key Points About `/` (Root Directory):-
     Not to be confused with `/root` (which is the home directory of the root user).
 
 
-
  Common Directories Under `/`:-
  -----------------------------
 
