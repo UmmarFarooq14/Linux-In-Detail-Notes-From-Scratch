@@ -14,7 +14,7 @@ Key Points About `/` (Root Directory):-
 
 
 
- Common Directories Under `/`:
+ Common Directories Under `/`:-
  -----------------------------
 
 | Directory | Description |
