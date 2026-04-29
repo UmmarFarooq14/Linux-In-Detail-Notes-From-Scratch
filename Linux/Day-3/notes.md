@@ -58,4 +58,3 @@ Used to extract specific columns from data.
 
 Syntax:
 cat filename | awk '{print $1}'
-
