@@ -39,7 +39,6 @@ Key Points About `/` (Root Directory):-
 ---
  BASIC LINUX COMMANDS:-
  ---------------------
-
 ```bash
 ls                 # Display all files
 ls -l              # Display long-listed files
