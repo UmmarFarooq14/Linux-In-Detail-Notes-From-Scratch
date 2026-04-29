@@ -35,7 +35,6 @@ Key Points About `/` (Root Directory):-
 | `/usr`    | User programs, libraries, and documentation |
 | `/var`    | Variable data like logs, mail, spool files |
 
-
  BASIC LINUX COMMANDS:-
  ---------------------
 ```bash
