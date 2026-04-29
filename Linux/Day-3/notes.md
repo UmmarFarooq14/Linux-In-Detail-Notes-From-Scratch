@@ -1,4 +1,4 @@
- DIRECTORIES UNDER /:
+ DIRECTORIES UNDER /:-
  -------------------
 
     In Linux, the `/` directory is known as the root directory.  
