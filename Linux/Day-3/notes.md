@@ -41,7 +41,7 @@ Key Points About `/` (Root Directory):-
 ---
 
  BASIC LINUX COMMANDS:-
- --------------------
+ ---------------------
 
 
 ```bash
