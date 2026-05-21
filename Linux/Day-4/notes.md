@@ -47,7 +47,7 @@ GREP COMMANDS [GLobal Regular Expression Print]:-
     grep -i "word$" filename      # Match lines ending with "word"
 
 
-WORD COUNTER (wc):
+WORD COUNTER (wc):-
 ---------------
     wc filename    # Count lines, words, characters
     wc -l filename # Count lines
