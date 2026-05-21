@@ -15,7 +15,7 @@
     lscpu        # CPU information
     uname -r     # Kernel version
 
-NETWORKING COMMANDS:
+NETWORKING COMMANDS:-
 -------------------
 
     ip a                  # Check private IP address
