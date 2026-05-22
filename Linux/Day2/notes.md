@@ -12,7 +12,7 @@
   -------
      man [command name]
      
-Example:
+Example:-
 --------
     man ls     # Shows the manual for the 'ls' command
     
