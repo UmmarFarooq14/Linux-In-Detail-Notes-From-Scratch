@@ -8,7 +8,7 @@
    -----------------   
    
 
-  Syntax:
+  Syntax:-
   -------
      man [command name]
      
