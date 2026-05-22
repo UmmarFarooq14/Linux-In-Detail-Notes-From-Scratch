@@ -36,12 +36,12 @@ Common Manual Page Sections:-
 
     Prints a quick summary of options and usage for a command.
 
-Syntax:
+Syntax:-
 -------
 
     command --help
     
-Example:
+Example:-
 -------
 
     ls --help   # Shows all available flags for 'ls'
