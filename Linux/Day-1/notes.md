@@ -8,7 +8,7 @@
     - Linux is a Case-sensitive Operating System.
 
 
- REQUIREMENTS TO LEARN LINUX:
+ REQUIREMENTS TO LEARN LINUX:-
  ----------------------------
     - A good condition laptop with network connectivity.
     - To connect to servers we use tools like Git Bash, PowerShell, MobileX, PuTTY, Eclipse.
