@@ -1,4 +1,4 @@
- HISTORY OF LINUX:
+ HISTORY OF LINUX:-
  ------------------
  
     - 1969: Ken Thompson and Dennis Ritchie at AT&T’s Bell Labs created UNIX, a powerful, multiuser operating system.
