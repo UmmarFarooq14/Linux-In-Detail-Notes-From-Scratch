@@ -7,7 +7,6 @@
     - Linux is a Free, Open-source, Kernel operating System. It’s used in Systems, Services, Embedded Systems, and Mobile Devices.
     - Linux is a Case-sensitive Operating System.
 
-
  REQUIREMENTS TO LEARN LINUX:-
  ----------------------------
     - A good condition laptop with network connectivity.
