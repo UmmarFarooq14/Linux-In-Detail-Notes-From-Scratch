@@ -21,7 +21,7 @@
     - System Libraries  
     - User Applications  
 
- TOPICS TO COVER IN LINUX:
+ TOPICS TO COVER IN LINUX:-
  --------------------------
     - Linux Documentation
     - Components of Linux
