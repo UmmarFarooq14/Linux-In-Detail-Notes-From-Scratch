@@ -31,7 +31,7 @@ List of commands for setting up ACL:-
        setfacl -b /path/to/file (for all users)
        
 Note:-
-----
+-----
     As you assign the ACL permission to a file/dir it adds + sign at the end of the permission setting with ACL does not allow to remove a file.
     
 Ex:-
