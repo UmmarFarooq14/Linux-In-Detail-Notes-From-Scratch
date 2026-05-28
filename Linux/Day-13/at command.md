@@ -186,7 +186,6 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
          3 --> Multi-user mode with Networking.
          5 --> Multi-user mode with Networking and GUI.
      
-
  Linux Boot Process:-
  -------------------
     BIOS --> Basic I/p O/P system Executes MBR.
