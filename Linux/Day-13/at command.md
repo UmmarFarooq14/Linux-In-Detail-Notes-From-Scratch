@@ -237,4 +237,3 @@ SATA & SAS:-
     SAS --> Serial Attachment SCSI { Small Computer System Interface }.
     Both SAS & SATA utilize serial communication. Serial COmmunication means that the higheay has both lanes.
     The main difference between them is that SAS drives are faster than more rekaible then SATA drives.
-    
