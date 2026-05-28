@@ -172,7 +172,6 @@ Dynamic Host COnfiguration Protocal{DHCP}:-
         -> vi /etc/sysconfig/network/enp0s3.
         -> simply run nmtui command to use GUI based network tool.
     
-    
  System Run Levels:-
  -------------------
      Main Run Level:
