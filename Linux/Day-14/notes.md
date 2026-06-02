@@ -51,7 +51,7 @@ For directories:-
 ----------------
         drwxr-sr-x
         
-How to Set SGID:
+How to Set SGID:-
 ----------------
 Numeric method:
 --------------
