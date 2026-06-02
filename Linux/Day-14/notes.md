@@ -42,7 +42,7 @@ For directories:-
 ----------------
          Files created inside the directory inherit the group ownership of the directory.
          
-How to Identify SGID:
+How to Identify SGID:-
 ---------------------
         -rwxr-sr-x
          The s in the group execute position indicates SGID.
