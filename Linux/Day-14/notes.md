@@ -34,7 +34,7 @@ Symbolic method:-
 ----------------
         chmod u+s file_name
 
-What is SGID:
+What is SGID:-
 --------------
         SGID is a special permission that allows a file to be executed with the permissions of the file's group.
 
