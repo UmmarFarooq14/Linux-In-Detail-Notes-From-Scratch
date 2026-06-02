@@ -30,7 +30,7 @@ Numeric method:-
 ----------------
         chmod 4755 file_name
 
-Symbolic method:
+Symbolic method:-
 ----------------
         chmod u+s file_name
 
