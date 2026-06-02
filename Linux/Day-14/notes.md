@@ -53,7 +53,7 @@ For directories:-
         
 How to Set SGID:-
 ----------------
-Numeric method:
+Numeric method:-
 --------------
         chmod 2755 directory_name
         
