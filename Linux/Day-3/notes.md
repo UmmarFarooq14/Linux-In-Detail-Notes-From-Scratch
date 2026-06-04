@@ -3,7 +3,6 @@
     In Linux, the `/` directory is known as the root directory.  
     It is the top-level directory in the Linux File System hierarchy.  
     Every file and directory starts here — it is the parent of all directories.
-
 Key Points About `/` (Root Directory):-
 ---------------------------------------
     `/` is the base of the entire Linux File System.  
