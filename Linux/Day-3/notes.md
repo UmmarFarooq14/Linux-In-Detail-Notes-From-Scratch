@@ -56,4 +56,4 @@ cat /etc/os-release # Check OS details
 
 Syntax:
 -------
-cat filename | awk '{print $1}'
+   cat filename | awk '{print $1}'
