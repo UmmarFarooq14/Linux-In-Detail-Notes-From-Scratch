@@ -74,8 +74,6 @@ What is Absolute path:-
         Ex:-
         ----
             /home/ummar/documents/file.txt
-
-
 what is Relative Path:-
 -----------------------
         A relative path specifies the location of a file or directory with respect to the current working directory.
