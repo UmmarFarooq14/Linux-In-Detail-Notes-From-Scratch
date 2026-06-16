@@ -50,7 +50,6 @@ WORD COUNTER (wc):-
     wc -c filename # Count characters
     wc -w filename # Count words
 
-
 FIND COMMAND:-
 -------------
 
