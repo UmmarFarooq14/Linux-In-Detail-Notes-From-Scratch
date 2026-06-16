@@ -1,6 +1,5 @@
  SYSTEM MONITORING & PERFORMANCE:-
  ---------------------------------
-
     top          # Real-time process & resource usage
     htop         # Interactive version of top
     vmstat       # Memory, process, I/O stats
