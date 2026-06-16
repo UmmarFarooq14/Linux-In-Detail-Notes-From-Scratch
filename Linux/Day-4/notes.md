@@ -15,7 +15,6 @@
 
 NETWORKING COMMANDS:-
 -------------------
-
     ip a                  # Check private IP address
     curl ipinfo.io        # Get public IP address
     curl ipconfig.io      # Get public IP address
