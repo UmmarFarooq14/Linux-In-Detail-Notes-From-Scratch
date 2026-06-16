@@ -28,7 +28,6 @@ NETWORKING COMMANDS:-
 
 GREP COMMANDS [GLobal Regular Expression Print]:-
 -------------
-
     grep -i "word" filename       # Search word (case-insensitive)
     grep -in "word" filename      # Search word, show line numbers
     grep -ic "word" filename      # Count matches
