@@ -49,7 +49,6 @@ WORD COUNTER (wc):-
     wc -l filename # Count lines
     wc -c filename # Count characters
     wc -w filename # Count words
-
 FIND COMMAND:-
 -------------
     The find command searches for files/directories recursively based on name, size, type, time, etc.
