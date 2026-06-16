@@ -52,7 +52,6 @@ WORD COUNTER (wc):-
 
 FIND COMMAND:-
 -------------
-
     The find command searches for files/directories recursively based on name, size, type, time, etc.
 
 | Purpose                        | Command                         |
