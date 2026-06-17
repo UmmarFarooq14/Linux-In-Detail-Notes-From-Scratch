@@ -13,7 +13,6 @@ Calculation:-
      -- For Files: 0666 - 0022 = 0644
  PERMISSION TYPES:-
  -----------------
-
     | Permission | Symbol | Value |
     |------------|--------|-------|
     | Read       | r      | 4     |
