@@ -31,7 +31,6 @@ Calculation:-
     -- chmod u+x filename   # Add execute permission for user
     -- chmod g-w filename   # Remove write for group
     -- chmod 755 myfile     # rwxr-xr-x
-
 CHANGE OWNERSHIP:-
 -----------------
      -- chown root file.txt          # Change owner
