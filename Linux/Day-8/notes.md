@@ -18,7 +18,6 @@ Calculation:-
     | Read       | r      | 4     |
     | Write      | w      | 2     |
     | Execute    | x      | 1     |
-
  USER TYPES:-
  -----------
 
