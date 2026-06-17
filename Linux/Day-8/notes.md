@@ -7,7 +7,6 @@ UMASK (User Mask):-
         - Default permissions:  
           - Directories: `755` (rwxr-xr-x)  
           - Files: `644` (rw-r--r--)  
-
 Calculation:-
 ------------
 
