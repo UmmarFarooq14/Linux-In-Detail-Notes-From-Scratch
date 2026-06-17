@@ -20,7 +20,6 @@ Calculation:-
     | Execute    | x      | 1     |
  USER TYPES:-
  -----------
-
     | Symbol | User Type |
     |--------|-----------|
     | u      | User      |
