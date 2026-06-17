@@ -1,6 +1,5 @@
  SECURITY & PERMISSIONS:-
  -----------------------
-
 UMASK (User Mask):-
 ------------------
 
