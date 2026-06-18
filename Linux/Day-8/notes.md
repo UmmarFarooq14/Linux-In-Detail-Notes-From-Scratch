@@ -55,7 +55,6 @@ MANAGING CRON JOBS:-
     -- crontab -l                    # List cron jobs
     -- crontab -e                    # Edit cron jobs
     -- crontab -r                    # Remove cron jobs
-
 SPECIAL STRINGS:-
 -----------------
 
