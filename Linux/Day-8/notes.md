@@ -65,5 +65,3 @@ SPECIAL STRINGS:-
      | @weekly  | Run once a week       |
      | @monthly | Run once a month      |
      | @yearly  | Run once a year       |
-
-
