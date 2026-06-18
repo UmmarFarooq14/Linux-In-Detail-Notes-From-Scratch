@@ -49,7 +49,6 @@ CRON JOB FORMAT:-
       │ │ └────── Day (1-31)
       │ └──────── Hour (0-23)
       └────────── Minute (0-59)
-
 MANAGING CRON JOBS:-
 -------------------
 
