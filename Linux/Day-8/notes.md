@@ -43,7 +43,6 @@ CRON JOBS & SCHEDULING:-
 
 CRON JOB FORMAT:-
 ----------------
-
       * * * * * /path/to/command
       │ │ │ │ │
       │ │ │ │ └── Day of week (0-7) (Sunday=0 or 7)
