@@ -51,7 +51,6 @@ CRON JOB FORMAT:-
       └────────── Minute (0-59)
 MANAGING CRON JOBS:-
 -------------------
-
     -- sudo yum install cronie       # Install cron service
     -- crontab -l                    # List cron jobs
     -- crontab -e                    # Edit cron jobs
