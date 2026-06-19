@@ -9,7 +9,6 @@
       | Monolithic Kernel  | Entire OS runs in a single address space (Linux uses this) |
       | Microkernel        | Minimal services in kernel space; rest in user space    |
       | Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    
-
  MAIN RESPONSIBILITIES:-
  ----------------------
 
