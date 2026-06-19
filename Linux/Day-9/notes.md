@@ -21,7 +21,6 @@
     | Security                | Manage permissions, system calls, SELinux          |
  KERNEL COMPONENTS:-
  ------------------
-
      1. **Process Scheduler** – Controls execution of processes  
      2. **Memory Manager** – Allocates and frees memory  
      3. **Virtual File System (VFS)** – Interface for different file systems  
