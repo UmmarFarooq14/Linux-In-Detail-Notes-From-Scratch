@@ -11,7 +11,6 @@
       | Hybrid Kernel      | Mix of monolithic and microkernel (e.g., Windows NT)    
  MAIN RESPONSIBILITIES:-
  ----------------------
-
     | Function                | Description                                         |
     |------------------------|-----------------------------------------------------|
     | Process Management      | Schedule processes, manage multitasking, priorities|
