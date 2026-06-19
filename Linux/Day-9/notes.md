@@ -19,7 +19,6 @@
     | Device Management       | Use drivers to interact with hardware              |
     | Networking              | Enable communication between systems               |
     | Security                | Manage permissions, system calls, SELinux          |
-
  KERNEL COMPONENTS:-
  ------------------
 
