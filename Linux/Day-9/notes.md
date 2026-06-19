@@ -30,7 +30,6 @@
 
  BACKUP & RECOVERY:-
  -----------------
-
     -- Backup: A copy of data stored elsewhere to protect against data loss due to  
     -- hardware failure, human error, malware, or accidental deletion.
 
