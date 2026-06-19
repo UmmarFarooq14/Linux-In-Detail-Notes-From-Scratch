@@ -4,7 +4,6 @@
         -- It acts as a bridge between hardware and software, managing system resources and services.
  TYPES OF KERNELS:-
  -----------------
-
       | Type               | Description                                             |
       |--------------------|---------------------------------------------------------|
       | Monolithic Kernel  | Entire OS runs in a single address space (Linux uses this) |
