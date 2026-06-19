@@ -91,7 +91,6 @@ Restore using rsync:-
 
 BACKUP BEST PRACTICES:-
 ----------------------
-
     -- Use incremental/differential backups to save space.
     -- Store backups in multiple locations (local + cloud).
     -- Automate backups using cron and scripts.
