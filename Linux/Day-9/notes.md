@@ -97,5 +97,3 @@ BACKUP BEST PRACTICES:-
     -- Automate backups using cron and scripts.
     -- Secure backups with encryption.
     -- Test backups regularly.
-
-
