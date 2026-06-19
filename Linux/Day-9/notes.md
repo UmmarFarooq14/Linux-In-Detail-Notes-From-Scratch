@@ -35,7 +35,6 @@
 
  TYPES OF BACKUPS:-
  -----------------
-
      | Type                | Description                                                    |
      |---------------------|----------------------------------------------------------------|
      | Full Backup         | Backs up all data every time. Time-consuming, storage-heavy.   |
