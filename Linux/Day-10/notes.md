@@ -57,7 +57,6 @@ FORMAT PARTITION:-
 
 MOUNT A PARTITION:-
 ------------------
-
     mkdir /mnt/data
     mount /dev/sdb1 /mnt/data
 
