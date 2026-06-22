@@ -1,6 +1,5 @@
  PROCESS MANAGEMENT:-
  -------------------
-
       A process is a set of instructions being executed in memory.
 
       - PID – Process ID  
