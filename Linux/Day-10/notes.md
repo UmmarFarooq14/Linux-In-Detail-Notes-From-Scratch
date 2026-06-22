@@ -1,6 +1,5 @@
  IMPORTANT PORT NUMBERS:-
- -----------------------
- 
+ ----------------------- 
  | Port Number| Protocol/Service               | Description                                    |
  |------------|---------------------------------|-----------------------------------------------|
  | 20         | FTP (Data)                      | File Transfer Protocol (Data Channel)         |
