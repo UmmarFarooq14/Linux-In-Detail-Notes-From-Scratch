@@ -62,7 +62,6 @@ MOUNT A PARTITION:-
 
 MAKE MOUNT PERMANENT:-
 ---------------------
-
 Edit /etc/fstab:-
 ----------------
     /dev/sdb1   /mnt/data   ext4   defaults   0   0
