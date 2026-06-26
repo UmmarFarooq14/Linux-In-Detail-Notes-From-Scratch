@@ -23,8 +23,6 @@ Syntax:-
      cat filename1                 # View content
      cat file1 > file2             # Overwrite file2 with file1
      cat file1 >> file2            # Append file1 content to file2
-
-
  VI / VIM EDITOR:-
 -----------------
 
