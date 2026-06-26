@@ -1,6 +1,5 @@
  FILE SYSTEMS:-
  -------------
-
       You can create files in Linux using two main commands:-
       1. `touch`  
       2. `vim` or `vi` Editor  
