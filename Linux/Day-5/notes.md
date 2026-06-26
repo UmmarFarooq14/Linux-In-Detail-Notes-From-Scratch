@@ -5,8 +5,6 @@
       1. `touch`  
       2. `vim` or `vi` Editor  
 
-
-
   touch Command:-
   --------------
 
