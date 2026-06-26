@@ -41,8 +41,6 @@ GREP COMMANDS [GLobal Regular Expression Print]:-
     grep -iE "dog|cat" filename   # Match multiple patterns
     grep -i "^word" filename      # Match lines starting with "word"
     grep -i "word$" filename      # Match lines ending with "word"
-
-
 WORD COUNTER (wc):-
 ---------------
     wc filename    # Count lines, words, characters
