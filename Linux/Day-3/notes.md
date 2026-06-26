@@ -49,7 +49,6 @@ df -hT             # Check disk usage
 date               # Check date & time
 cat /etc/os-release # Check OS details
 
-
 AWK COMMAND:-
 -----------
     Used to extract specific columns from data.
