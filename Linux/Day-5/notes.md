@@ -15,10 +15,7 @@ Syntax:-
 
  cat Command
  ------------
-
      Insert/view content in files.
-   
-   
 Syntax:-
 -------
      cat > filename1               # Insert single-line data
