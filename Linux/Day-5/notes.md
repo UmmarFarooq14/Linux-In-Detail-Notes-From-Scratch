@@ -11,7 +11,6 @@
 
 Syntax:-
 -------
-
      touch filename                   # Create a single file
      touch filename1 filename2        # Create multiple files
      touch filename{1..5}             # Create multiple numbered files
