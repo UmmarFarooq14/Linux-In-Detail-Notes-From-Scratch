@@ -21,7 +21,6 @@ VIEW PASSWORDS (hashed):-
 
 GROUP MANAGEMENT:-
 ----------------
-
     groupadd groupname
 
 Delete a Group:-
