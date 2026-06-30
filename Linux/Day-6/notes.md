@@ -11,9 +11,7 @@ Example:-
 
 DELETE A USER:-
 --------------
-
         userdel -r username   # Delete a user and their home directory
-
 VIEW USERS:-
 -----------
 
