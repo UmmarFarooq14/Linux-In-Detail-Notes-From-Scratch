@@ -18,7 +18,6 @@ VIEW USERS:-
 
 VIEW PASSWORDS (hashed):-
 ------------------------
-
     cat /etc/shadow
 
 GROUP MANAGEMENT:-
