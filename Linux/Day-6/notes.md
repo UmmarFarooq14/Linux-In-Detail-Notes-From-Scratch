@@ -65,6 +65,3 @@ GIVE SUDO ACCESS:-
 Add the user under User Privileges:-
 ----------------------------------
      username   ALL=(ALL)   ALL
-
-
-
