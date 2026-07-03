@@ -204,8 +204,6 @@ Network File System{NFS}:-
     -> NFS stands for Network File System, a file system developed by sun Microsystems Inc.
     -> Port number is 2049.
     -> It is a client/server system that allows user to access files across a network and treat them as if they resided in a local file directory.
-
-
 Samba {136, 137, 138, 445}:-
 ---------------------------
     -> Samba is a linux tool (or) utility that allows sharing for linux resources such as files and printers to with other operating systems.
