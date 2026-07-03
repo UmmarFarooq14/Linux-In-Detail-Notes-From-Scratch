@@ -99,7 +99,6 @@ Environmental Variable:-
   
 The Screen Command:-
 -------------------
-
     * To split the screen into two parts:
         . alt+a
           shift+|
@@ -113,7 +112,6 @@ The Screen Command:-
         . alt+a
           c
     * screen -r ---> to display the how many screens.
-
 Aliases:-
 --------
     Aliases is a popular command that is used to cut down on lengthy & repetitive commands.
