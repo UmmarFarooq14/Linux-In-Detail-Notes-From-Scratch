@@ -134,7 +134,6 @@ Creating User (or) Global aliases:-
               ==> alias hh = "hostname"
 To Display the Image:-
 ---------------------
-
     . Become root.
     . Yum install ImageMagick -y
     . display image -file.
