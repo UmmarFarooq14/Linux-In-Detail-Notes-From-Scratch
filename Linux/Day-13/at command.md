@@ -56,8 +56,7 @@ SOS Report:-
      sos-version
 
     command:
-     sosreport
-     
+     sosreport     
 Terminal Control Keys:-
 ----------------------
     Several key combinations on your keyboard usually have a special effect on the terminal.
