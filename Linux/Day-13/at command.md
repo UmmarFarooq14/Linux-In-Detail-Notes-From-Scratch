@@ -35,7 +35,6 @@ System Monitoring:-
     htop
     vmstat
     sar
-
 Log Monitoring:-
 ---------------
     Another and most important way of system administration is log monitor.
