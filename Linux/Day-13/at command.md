@@ -46,8 +46,7 @@ Log Monitoring:-
     mailog
     secure
     messages
-    httpd
-    
+    httpd    
 SOS Report:-
 -----------
     what is sos report:
