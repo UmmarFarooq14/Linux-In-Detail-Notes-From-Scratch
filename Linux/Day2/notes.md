@@ -28,7 +28,6 @@ Syntax:-
     
 Example:-
 -------
-
     ls --help   # Shows all available flags for 'ls'
 
 Difference Between man & help:-
