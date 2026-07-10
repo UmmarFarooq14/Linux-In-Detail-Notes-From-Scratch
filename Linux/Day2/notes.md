@@ -5,8 +5,7 @@ LINUX DOCUMENTATION :-
    -----------------   
   Syntax:-
   -------
-     man [command name]
-     
+     man [command name]    
 Example:-
 --------
     man ls     # Shows the manual for the 'ls' command
