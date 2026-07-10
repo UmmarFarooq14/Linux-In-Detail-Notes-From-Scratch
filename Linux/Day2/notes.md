@@ -24,7 +24,6 @@ Common Manual Page Sections:-
 
 Syntax:-
 -------
-
     command --help
     
 Example:-
