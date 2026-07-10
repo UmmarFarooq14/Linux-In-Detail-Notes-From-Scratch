@@ -12,7 +12,6 @@ Example:-
 Common Manual Page Sections:-
 ----------------------------
     NAME - What the command does
-    
     SYNOPSIS - How to use it (Syntax)
     
     DESCRIPTION - Detailed explanation
