@@ -32,7 +32,6 @@ Example:-
 
 Difference Between man & help:-
 ------------------------------
-
     |Feature	          | man (manual)	             | --help (quick help)      |
     |-------------------------------------------------------------------------  |
     |Detail	             Very detailed (official)	    Quick & concise           |
