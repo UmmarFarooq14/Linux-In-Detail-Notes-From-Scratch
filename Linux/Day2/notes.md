@@ -8,8 +8,7 @@ LINUX DOCUMENTATION :-
      man [command name]    
 Example:-
 --------
-    man ls     # Shows the manual for the 'ls' command
-    
+    man ls     # Shows the manual for the 'ls' command    
 Common Manual Page Sections:-
 ----------------------------
 
