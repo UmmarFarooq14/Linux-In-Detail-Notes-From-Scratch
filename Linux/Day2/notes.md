@@ -16,7 +16,6 @@ Common Manual Page Sections:-
     DESCRIPTION - Detailed explanation
     OPTIONS - List of flags/switches
     EXAMPLES - Sample usage
-    
     SEE ALSO - Related commands
 
 2) --help:-
