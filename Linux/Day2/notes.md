@@ -11,7 +11,6 @@ Example:-
     man ls     # Shows the manual for the 'ls' command    
 Common Manual Page Sections:-
 ----------------------------
-
     NAME - What the command does
     
     SYNOPSIS - How to use it (Syntax)
