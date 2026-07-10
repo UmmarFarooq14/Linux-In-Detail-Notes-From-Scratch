@@ -15,7 +15,6 @@ Common Manual Page Sections:-
     SYNOPSIS - How to use it (Syntax)
     DESCRIPTION - Detailed explanation
     OPTIONS - List of flags/switches
-    
     EXAMPLES - Sample usage
     
     SEE ALSO - Related commands
